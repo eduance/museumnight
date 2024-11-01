@@ -260,12 +260,12 @@ export default function EnhancedMuseumRouteResponsive({ initialMuseums }: { init
                 </div>
               )}
               <div className="space-y-4 flex-grow flex flex-col">
-                <div className="space-y-2">
+                <div className="space-y-2 relative z-[10000000000]">
                   <Select onValueChange={handleMuseumSelect}>
                     <SelectTrigger>
                       <SelectValue placeholder="Add a museum" />
                     </SelectTrigger>
-                    <SelectContent>
+                    <SelectContent className="z-[10000000000]">
                       {museums.slice(1).map((museum) => (
                         <SelectItem key={museum.id} value={museum.id.toString()} disabled={selectedMuseums.some(m => m.id === museum.id)}>
                           {museum.name} ({museum.distance?.toFixed(2)} km)

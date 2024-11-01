@@ -49,22 +49,6 @@ const damSquareIcon = new L.Icon({
   shadowSize: [41, 41]
 })
 
-function calculateDistance(lat1: number, lon1: number, lat2: number, lon2: number) {
-  const R = 6371
-  const dLat = deg2rad(lat2 - lat1)
-  const dLon = deg2rad(lon2 - lon1)
-  const a =
-    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-    Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) * Math.sin(dLon / 2) * Math.sin(dLon / 2)
-  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a))
-  const d = R * c
-  return d
-}
-
-function deg2rad(deg: number) {
-  return deg * (Math.PI / 180)
-}
-
 export default function MapComponent({ museums, selectedMuseums, isAnimating, optimalPath }: MapComponentProps) {
   const mapRef = useRef<L.Map | null>(null)
   const markersRef = useRef<L.Marker[]>([])
@@ -154,7 +138,6 @@ export default function MapComponent({ museums, selectedMuseums, isAnimating, op
         if (currentIndex < pathCoords.length - 1) {
           const start = pathCoords[currentIndex] as [number, number]
           const end = pathCoords[currentIndex + 1] as [number, number]
-          const duration = calculateDistance(start[0], start[1], end[0], end[1]) * 200 // 200ms per km, faster animation
 
           const frames = 60
           const latStep = (end[0] - start[0]) / frames
