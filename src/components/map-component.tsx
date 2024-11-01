@@ -49,6 +49,22 @@ const damSquareIcon = new L.Icon({
   shadowSize: [41, 41]
 })
 
+function calculateDistance(lat1: number, lon1: number, lat2: number, lon2: number) {
+  const R = 6371
+  const dLat = deg2rad(lat2 - lat1)
+  const dLon = deg2rad(lon2 - lon1)
+  const a =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) * Math.sin(dLon / 2) * Math.sin(dLon / 2)
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a))
+  const d = R * c
+  return d
+}
+
+function deg2rad(deg: number) {
+  return deg * (Math.PI / 180)
+}
+
 export default function MapComponent({ museums, selectedMuseums, isAnimating, optimalPath }: MapComponentProps) {
   const mapRef = useRef<L.Map | null>(null)
   const markersRef = useRef<L.Marker[]>([])
@@ -58,7 +74,7 @@ export default function MapComponent({ museums, selectedMuseums, isAnimating, op
 
   useEffect(() => {
     if (typeof window !== 'undefined' && !mapRef.current) {
-      mapRef.current = L.map('map').setView([52.3676, 4.9041], 13)
+      mapRef.current = L.map('map').setView([52.373055, 4.892222], 13)
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       }).addTo(mapRef.current)
@@ -116,6 +132,14 @@ export default function MapComponent({ museums, selectedMuseums, isAnimating, op
       const pathCoords = optimalPath.map(museum => [museum.coords.lat, museum.coords.lng])
       polylineRef.current = L.polyline(pathCoords as L.LatLngExpression[], { color: 'red', weight: 3 }).addTo(mapRef.current)
 
+      // Smooth zoom animation
+      const bounds = polylineRef.current.getBounds()
+      mapRef.current.flyToBounds(bounds, {
+        padding: [50, 50],
+        duration: 1,  // Duration in seconds
+        easeLinearity: 0.5
+      })
+
       const animatedIcon = L.divIcon({
         className: 'animated-icon',
         html: '<div style="background-color: blue; width: 10px; height: 10px; border-radius: 50%; border: 2px solid white;"></div>',
@@ -130,6 +154,7 @@ export default function MapComponent({ museums, selectedMuseums, isAnimating, op
         if (currentIndex < pathCoords.length - 1) {
           const start = pathCoords[currentIndex] as [number, number]
           const end = pathCoords[currentIndex + 1] as [number, number]
+          const duration = calculateDistance(start[0], start[1], end[0], end[1]) * 200 // 200ms per km, faster animation
 
           const frames = 60
           const latStep = (end[0] - start[0]) / frames
@@ -156,6 +181,13 @@ export default function MapComponent({ museums, selectedMuseums, isAnimating, op
       }
 
       animateMarker()
+    } else if (!isAnimating) {
+      // Reset zoom when animation stops
+      const allMarkers = L.featureGroup(markersRef.current)
+      mapRef.current.flyToBounds(allMarkers.getBounds().pad(0.1), {
+        duration: 1,
+        easeLinearity: 0.5
+      })
     }
   }, [isAnimating, optimalPath, mapLoaded])
 

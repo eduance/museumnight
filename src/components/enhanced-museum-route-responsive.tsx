@@ -153,6 +153,7 @@ export default function EnhancedMuseumRouteResponsive({ initialMuseums }: { init
   const [isCalculating, setIsCalculating] = useState(false)
   const [googleMapsLink, setGoogleMapsLink] = useState("")
   const [timeEstimate, setTimeEstimate] = useState("")
+  const [excludedMuseums, setExcludedMuseums] = useState<string[]>([])
 
   useEffect(() => {
     const damSquare: Museum = {
@@ -160,6 +161,7 @@ export default function EnhancedMuseumRouteResponsive({ initialMuseums }: { init
       name: "Dam Square",
       address: "Dam, 1012 NP Amsterdam",
       coords: { lat: 52.373055, lng: 4.892222 },
+
       uri: "",
       image: { url: "", caption: "" },
       large_image: { url: "", caption: "" },
@@ -170,6 +172,10 @@ export default function EnhancedMuseumRouteResponsive({ initialMuseums }: { init
     }
 
     const validMuseums = initialMuseums.filter(museum => museum.coords && museum.coords.lat && museum.coords.lng)
+    const excludedNames = initialMuseums
+      .filter(museum => !museum.coords || !museum.coords.lat || !museum.coords.lng)
+      .map(museum => museum.name)
+    setExcludedMuseums(excludedNames)
 
     const museumsWithDistances = validMuseums
       .map(museum => ({
@@ -222,8 +228,12 @@ export default function EnhancedMuseumRouteResponsive({ initialMuseums }: { init
       setGoogleMapsLink(generateGoogleMapsLink(path));
       setTimeEstimate(generateTimeEstimate(path));
       setIsAnimating(true);
-      // Force a re-render of the WalkingTourAnimation component
-      setOptimalPath([...path]);
+
+      // Simulate the walking tour
+      await new Promise(resolve => setTimeout(resolve, path.length * 2000)); // 2 seconds per museum
+
+      // Reset the walking tour state
+      setIsAnimating(false);
     } catch (error) {
       console.error("Error calculating optimal path:", error);
     } finally {
@@ -244,6 +254,11 @@ export default function EnhancedMuseumRouteResponsive({ initialMuseums }: { init
               <CardDescription>Plan your efficient night at the museums from 19:00 to 02:00</CardDescription>
             </CardHeader>
             <CardContent className="flex-grow flex flex-col">
+              {excludedMuseums.length > 0 && (
+                <div className="mb-4 p-2 bg-yellow-100 text-yellow-800 rounded-md text-sm">
+                  Note: {excludedMuseums.length} museum(s) were excluded due to missing location data.
+                </div>
+              )}
               <div className="space-y-4 flex-grow flex flex-col">
                 <div className="space-y-2">
                   <Select onValueChange={handleMuseumSelect}>
@@ -320,8 +335,8 @@ export default function EnhancedMuseumRouteResponsive({ initialMuseums }: { init
                       </a>
                     </Button>
                   )}
-                  {selectedMuseums.length > 1  && (
-                    <Button  onClick={handleClearSelection} variant="secondary" className="w-full">
+                  {selectedMuseums.length > 1 && (
+                    <Button onClick={handleClearSelection} variant="secondary" className="w-full">
                       Clear Selection
                     </Button>
                   )}
