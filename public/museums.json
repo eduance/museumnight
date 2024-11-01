@@ -1,0 +1,1649 @@
+[
+        {
+            "id": 105,
+            "name": "Amsterdam Ferry Festival",
+            "uri": "museum\/105\/amsterdam-ferry-festival",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f52284843bd9f91526594eefc00de153490a7c12a9f.jpg_460x.jpg",
+                "caption": "\u00a9 Isabell Janssen, 2023."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f52284843bd9f91526594eefc00de153490a7c12a9f.jpg_1280x.jpg",
+                "caption": "\u00a9 Isabell Janssen, 2023."
+            },
+            "about": "Kunst op de pont! Ook deze Museumnacht neemt Amsterdam Ferry Festival de pont tussen Centraal Station en NDSM weer over. Geniet van het werk van verschillende kunstenaars terwijl je naar de overkant vaart. Zo wordt je reis een museumbezoek op zich!",
+            "notes": "Laat je vervoeren (letterlijk!) door de kunst op weg van en naar Noord.",
+            "address": "Centraal Station <> NDSM, 1021 NB",
+            "coords": {
+                "lat": 52.38050809736311,
+                "lng": 4.898934922106926
+            },
+            "capacity": "open",
+            "capacity_title": "Open"
+        },
+        {
+            "id": 2,
+            "name": "Amsterdam Museum",
+            "uri": "museum\/2\/amsterdam-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_651a9ec07e8aa569cc5593082b52065b9057b9750e32b.JPG",
+                "caption": "\u00a9 Almicheal Fraay, 2021."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_651a9ec07e8aa569cc5593082b52065b9057b9750e32b.JPG",
+                "caption": "\u00a9 Almicheal Fraay, 2021."
+            },
+            "about": "De naam zegt het al: Amsterdam Museum. Hier leer je alles over ons mooie Mokum, van toen, nu en straks. Van de oude Wallen tot de Bijlmermeer, van de Albert Cuyp tot de Zuidas. Ontdek de collectie maar ook de verhalen van en over Amsterdam. Op zoek naar meer Amsterdamse collecties en verhalen? Ga dan ook eens langs bij het Stadsarchief en het Van Eesteren Museum.",
+            "notes": "Ontdek onze stad in al zijn dimensies in het Amsterdam Museum.",
+            "address": "Amstel 51, 1018 DR",
+            "coords": {
+                "lat": 52.3657717,
+                "lng": 4.9027821
+            },
+            "capacity": "closed",
+            "capacity_title": "Vol"
+        },
+        {
+            "id": 3,
+            "name": "Amsterdam Pipe Museum",
+            "uri": "museum\/3\/amsterdam-pipe-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/650bfdae1bb85b444ce2c0cca6a954cc87a8095745092.jpg_460x.jpg",
+                "caption": "\u00a9 Rosa Krastel, 2021."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/650bfdae1bb85b444ce2c0cca6a954cc87a8095745092.jpg_1280x.jpg",
+                "caption": "\u00a9 Rosa Krastel, 2021."
+            },
+            "about": "In dit statige herenhuis tussen het Leidseplein en het Rijksmuseum staat \u00e9\u00e9n ding centraal: rookpijpen van alle tijden en uit alle landen. Haal in deze particuliere verzameling je hart en longen op aan de meest diverse rookculturen en ga vooral even langs bij de museumwinkel. Dan kan je vervolgens met je nieuwe pijp door naar de werkkamer van buurtgenoot en beroemde roker: het Harry Mulisch Huis.",
+            "notes": "Misschien wel de grootste pijpencollectie ter wereld.",
+            "address": "Prinsengracht 488, 1017 KH",
+            "coords": {
+                "lat": 52.3641198,
+                "lng": 4.88528569999994
+            },
+            "capacity": "open",
+            "capacity_title": "Open"
+        },
+        {
+            "id": 4,
+            "name": "Anne Frank Huis",
+            "uri": "museum\/4\/anne-frank-huis",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f9df8e1b8b5dff7610e66af19dcc1e6694629fa5b5a.jpg_460x.jpg",
+                "caption": "\u00a9 Rosa Krastel, 2022."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f9df8e1b8b5dff7610e66af19dcc1e6694629fa5b5a.jpg_1280x.jpg",
+                "caption": "\u00a9 Rosa Krastel, 2022."
+            },
+            "about": "Het Achterhuis. Hoe dicht bij de geschiedenis kun je staan? Bekijk de ruimte achter de boekenkast waar Anne Frank met haar familie, de familie Van Pels en Fritz Pfeffer zat ondergedoken. Lees fragmenten uit Annes dagboek, bekijk haar slaapkamer en de plaatjes aan de muur. Leer meer over de Tweede Wereldoorlog en de Jodenvervolging aan de hand van deze bijzondere plek.",
+            "notes": "Ervaar het verhaal van Anne Frank op een van de meest bijzondere plekken van Amsterdam.",
+            "address": "Westermarkt 20, 1016 DK",
+            "coords": {
+                "lat": 52.3752182,
+                "lng": 4.883976500000017
+            },
+            "capacity": "open",
+            "capacity_title": "Open"
+        },
+        {
+            "id": 5,
+            "name": "Arcam",
+            "uri": "museum\/5\/arcam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/611504b929831d6ddfbf7c75822fa2cd2b05d1edc880e.jpg_460x.jpg",
+                "caption": "Oscar Aukes - 2018"
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/611504b929831d6ddfbf7c75822fa2cd2b05d1edc880e.jpg_1280x.jpg",
+                "caption": "Oscar Aukes - 2018"
+            },
+            "about": "Arcam is het architectuurcentrum van Amsterdam. In dit gebouw aan het Oosterdok leer je meer over de geschiedenis van architectuur en over nieuwe gebouwen en gebieden in de stad. Ook stellen we ruimtelijke ontwikkelingen in de toekomst ter discussie. Het hele jaar door zijn er tentoonstellingen, lezingen en wandelingen.",
+            "notes": "Architectuurcentrum in het Oosterdok.",
+            "address": "Prins Hendrikkade 600, 1011 VX",
+            "coords": {
+                "lat": 52.371443,
+                "lng": 4.9126340000000255
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 36,
+            "name": "Arti et Amicitiae",
+            "uri": "museum\/36\/arti-et-amicitiae",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/63170c616266dbf73a88bc38ba5789857db95c2984790.jpg_460x.jpg",
+                "caption": "\u00a9 Dylan Jake Vermaas, 2018."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/63170c616266dbf73a88bc38ba5789857db95c2984790.jpg_1280x.jpg",
+                "caption": "\u00a9 Dylan Jake Vermaas, 2018."
+            },
+            "about": "Arti et Amicitiae staat voor kunst en vriendschap. Het is een open kunstsoci\u00ebteit waar makers en liefhebbers samenkomen. In het gebouw, ontworpen door Berlage, is ruimte voor allerlei initiatieven van moderne kunstenaars. Een centrale, kunsthistorische plek in Amsterdam.\r\n\r\nHet Arti et Amicitiae programma van Museumnacht 2024 staat in het teken van FLAM Festival (30 oktober tot en met 2 november), georganiseerd door performance platform FLAM (www.flam.online) dat live art in al zijn facetten presenteert. Met een sterk queer accent staat het platform voor diversiteit, waarbij verschillende expressies kunnen ontstaan, mixen en uitwisselen. Het programma verspreidt zich door alle ruimtes in Arti, van de gevel tot het caf\u00e9 en van de expositieruimtes tot kleine verborgen nisjes. Op die manier wordt het historische gebouw van Arti et Amicitiae tot leven gebracht.",
+            "notes": "In het historische Arti gebeuren de hele nacht (on)verwachte dingen.",
+            "address": "Rokin 112, 1012 LB",
+            "coords": {
+                "lat": 52.36893389999999,
+                "lng": 4.8916021
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 110,
+            "name": "ARTIS - Groote Museum",
+            "uri": "museum\/110\/artis-groote-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6319ec9128d72f5f20f4f61af6bf6a4cebd867f7bd2f5.jpg_460x.jpg",
+                "caption": "\u00a9 Maarten van der Wal"
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6319ec9128d72f5f20f4f61af6bf6a4cebd867f7bd2f5.jpg_1280x.jpg",
+                "caption": "\u00a9 Maarten van der Wal"
+            },
+            "about": "In de historische museumzalen uit 1855 bevindt zich het ARTIS - Groote Museum. Hier wordt de natuur in de breedste zin onderzocht: mens, dier, plant en microbe. Overal in de natuur zijn vergelijkbare processen en patronen te vinden. Hoe hebben die patronen impact op ons leven? En hoe hebben wij impact op al het leven? Ontdek het in het museum van grote vragen!",
+            "notes": "Vind uit hoe alles met elkaar verbonden is en ontdek de impact die jij kan hebben op de wereld.",
+            "address": "Plantage Middenlaan 41, 1018 CZ Amsterdam",
+            "coords": {
+                "lat": 52.3661016,
+                "lng": 4.913120200000001
+            },
+            "capacity": "open",
+            "capacity_title": "Open"
+        },
+        {
+            "id": 46,
+            "name": "ARTIS - Micropia",
+            "uri": "museum\/46\/artis-micropia",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_63170eb40b806c80cfe5e3bb1b6db927e82ff4d098b8b.jpeg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_63170eb40b806c80cfe5e3bb1b6db927e82ff4d098b8b.jpeg",
+                "caption": ""
+            },
+            "about": "ARTIS - Micropia gaat over het machtigste, meest succesvolle en tegelijkertijd kleinste leven op aarde: microben. Ontdek de onzichtbare wereld van de bacteri\u00ebn, schimmels, virussen en archaea, de bizarre omstandigheden waarin ze leven en het belang dat ze hebben voor alle leven op aarde. Als je de wereld van h\u00e9\u00e9l dichtbij bekijkt, gaat er een hele nieuwe voor je open.",
+            "notes": "Join de microben en ontdek nieuwe werelden!",
+            "address": "Plantage Kerklaan 38-40, 1018 CZ",
+            "coords": {
+                "lat": 52.3663541,
+                "lng": 4.912849999999935
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 47,
+            "name": "ARTIS - Planetarium",
+            "uri": "museum\/47\/artis-planetarium",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64fefa4bb036f390434dc3ee515f5ba877a4056ccc80d.jpg_460x.jpg",
+                "caption": "\u00a9 Hannah Bults, 2022."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64fefa4bb036f390434dc3ee515f5ba877a4056ccc80d.jpg_1280x.jpg",
+                "caption": "\u00a9 Hannah Bults, 2022."
+            },
+            "about": "Wat kom je tegen als je langs de planeten vliegt? En wat ligt daar eigenlijk achter? In ARTIS - Planetarium ontdek je onze plek in het oneindige heelal. Neem plaats in de koepelzaal, leun achterover en verken het zonnestelsel en de sterren daar voorbij.",
+            "notes": "Trotseer - op een positieve manier - de oneindigheid van het heelal.",
+            "address": "Plantage Kerklaan 38-40, 1018 CZ",
+            "coords": {
+                "lat": 52.36702349999999,
+                "lng": 4.912714899999969
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 143,
+            "name": "Athenaeum Zuidoost",
+            "uri": "museum\/143\/athenaeum-zuidoost",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f2d9dbd443015a54da193ae5cdae51d5847f3f046ca.webp_460x.webp",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f2d9dbd443015a54da193ae5cdae51d5847f3f046ca.webp_1280x.webp",
+                "caption": ""
+            },
+            "about": "In het winkelcentrum de Amsterdamse Poort \u2013 vlakbij de Amsterdam Arena - bevindt zich een eigenzinnige, ruim opgezette boekhandel: Athenaeum Boekhandel Zuidoost. Het aanbod is breed en gericht op het zeer diverse publiek in Zuidoost.",
+            "notes": "Laat je verrassen door de literaire diversiteit en geniet van de ontspannen sfeer tussen de boekenplanken!",
+            "address": "Bijlmerplein 1009, 1102 ML",
+            "coords": {
+                "lat": 52.3131773,
+                "lng": 4.9495247
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 135,
+            "name": "Beautiful Distress House",
+            "uri": "museum\/135\/beautiful-distress-house",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/668ff5dccf88f16c67150431c983dd06f0aabb1b1a4bf.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/668ff5dccf88f16c67150431c983dd06f0aabb1b1a4bf.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "Beautiful Distress maakt met kunst mentale kwetsbaarheden zichtbaar, voelbaar en daarmee bespreekbaar. Waarom? Omdat iedereen te maken heeft met mentale gezondheid. Voor sommigen is het alleen een thema bij ingrijpende gebeurtenissen, terwijl het voor anderen hun dagelijks leven be\u00efnvloedt. Beautiful Distress zet kunst in omdat het onze zintuigen en geest aanspreekt. Het stelt ons in staat om anders naar dingen te kijken en maakt ons bewust van onze eigen vooroordelen.",
+            "notes": "Laat je raken door verhalen van veerkracht, worsteling en kwetsbaarheid, vertaald in diverse kunstvormen.",
+            "address": "Ms. van Riemsdijkweg 41a, 1033 RC",
+            "coords": {
+                "lat": 52.4004974,
+                "lng": 4.8921833
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 111,
+            "name": "Bijlmer Parktheater",
+            "uri": "museum\/111\/bijlmer-parktheater",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_6332ed41d890cb41f9c1b8dd7879e949b8f2488591d2f.jpeg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_6332ed41d890cb41f9c1b8dd7879e949b8f2488591d2f.jpeg",
+                "caption": ""
+            },
+            "about": "Het Bijlmer Parktheater is een professioneel stadstheater met zijn roots in Amsterdam Zuidoost, actief op het gebied van intercultureel programmeren, cultuureducatie, community art en talentontwikkeling. Het Bijlmer Parktheater wil confronteren, ondernemen, verrijken, verbinden en laten zien wat er speelt in onze cultureel diverse samenleving \u00e9n in de wijk.",
+            "notes": "Vier het 15-jarig bestaan van Bijlmer Parktheater mee!",
+            "address": "Anton de Komplein 240, 1102 DR",
+            "coords": {
+                "lat": 52.3145394,
+                "lng": 4.9602132
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 125,
+            "name": "Buro Stedelijk",
+            "uri": "museum\/125\/buro-stedelijk",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/654351e13f2a4b777cbea93c0a806d33c65a474e9fddb.jpg_460x.jpg",
+                "caption": "Foto: Kevin Osepa"
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/654351e13f2a4b777cbea93c0a806d33c65a474e9fddb.jpg_1280x.jpg",
+                "caption": "Foto: Kevin Osepa"
+            },
+            "about": "Buro Stedelijk is een nieuwe, experimentele plek voor kunst uit Amsterdam en de wereld, gevestigd in de oudbouw van het Stedelijk Museum. Het is een dynamische ruimte voor opkomende kunstenaars en vormgevers, die samenwerking tussen instellingen, communities en kunstenaars stimuleert.\r\n\r\nBuro Stedelijk is bereikbaar via de ingang van het Stedelijk Museum.",
+            "notes": "Buro Stedelijk geeft experimentele makers alle ruimte in hartje Amsterdam.",
+            "address": "Museumplein 10, 1071 DJ",
+            "coords": {
+                "lat": 52.359115,
+                "lng": 4.8779328
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 145,
+            "name": "Buurtwerkplaats Noorderhof",
+            "uri": "museum\/145\/buurtwerkplaats-noorderhof",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66a9fc46afbaaa511a81605c4fdcf01bbe567baf3a341.jpg_460x.jpg",
+                "caption": "Foto: Peter Both"
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66a9fc46afbaaa511a81605c4fdcf01bbe567baf3a341.jpg_1280x.jpg",
+                "caption": "Foto: Peter Both"
+            },
+            "about": "Aan de Sloterplas ligt Buurtwerkplaats Noorderhof: een culturele ontmoetings- en ontwikkelingsplek. Op dit voorheen braakliggende terrein zijn een werkplaats en een paviljoen gevestigd. \r\n\r\nDe plek wordt gedeeld met iedereen die iets wil, ook als ze soms nog niet weten wat. Met buurtbewoners, kunstenaars, studenten, onderzoekers, sociale en culturele organisaties. Hier ontstaan diverse projecten, waar het artistieke altijd met het sociale verbonden wordt.",
+            "notes": "Kom langs op dit unieke terrein waar creativiteit en community samenkomen!",
+            "address": "President Allendelaan 3, 1064 GW",
+            "coords": {
+                "lat": 52.3702999,
+                "lng": 4.8181638
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 40,
+            "name": "CBK Zuidoost",
+            "uri": "museum\/40\/cbk-zuidoost",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d6e702783324e598942e137375953488464c6f977610.jpg_460x.jpg",
+                "caption": "\u00a9 Maxime Noir, 2018."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d6e702783324e598942e137375953488464c6f977610.jpg_1280x.jpg",
+                "caption": "\u00a9 Maxime Noir, 2018."
+            },
+            "about": "In het Centrum voor Beeldende Kunst vind je moderne kunst uit de buurt en uit het buitenland. Zo divers als Zuidoost is, zo divers zijn de werken die je er aantreft. Je leert de hele wereld kennen in deze oudste culturele instelling van Amsterdam Zuidoost.",
+            "notes": "Beleef de kracht van de intersectie van kunst en inclusiviteit.",
+            "address": "Anton de Komplein 120, 1102 DR",
+            "coords": {
+                "lat": 52.3161581,
+                "lng": 4.95715359999997
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 115,
+            "name": "CBK Zuidoost - SHEBANG",
+            "uri": "museum\/115\/cbk-zuidoost-shebang",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/63330084a01b869d2a8b12f399e49a37c06666d699ea2.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/63330084a01b869d2a8b12f399e49a37c06666d699ea2.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "SHEBANG is een nomadische ontwikkelplek van Bijlmer Parktheater, CBK Zuidoost en Imagine IC voor creatieve makers en denkers. Onder begeleiding van een gastcurator don zij onderzoek en becommentari\u00ebren lokale en globale ontwikkelingen vanuit beeldende kunst, podiumkunsten en erfgoed.",
+            "notes": "Laat je inspireren op deze bruisende hotspot voor creativiteit!",
+            "address": "Hettenheuvelweg 8, 1101 BN",
+            "coords": {
+                "lat": 52.3034081,
+                "lng": 4.9472311
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 149,
+            "name": "Cultuur Ferry",
+            "uri": "museum\/149\/cultuur-ferry",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f2a7dbd7f842f331b222820327a62adaee37ab584b1.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f2a7dbd7f842f331b222820327a62adaee37ab584b1.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "Amsterdam is het mooist vanaf het water, hoor je wel eens. Pak deze Museumnacht dus je kans en stap aan boord van de Cultuur Ferry, die je over de grachten van de binnenstad naar je volgende museum brengt. In de comfortabele, authentieke sloep vertelt een museumgids je ook nog eens alles over de historische plekken waar je op dat moment voorbij dobbert.\r\n\r\nMet de 'meer informatie'-knop hieronder kan je de hele nacht de live locaties van de Cultuur Ferry volgen:",
+            "notes": "In comfort over de grachten naar je volgende bestemming!",
+            "address": "Stationsplein 26, 1012 AB",
+            "coords": {
+                "lat": 52.3781943,
+                "lng": 4.8988913
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 54,
+            "name": "De Appel",
+            "uri": "museum\/54\/de-appel",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f13d014658b92b60cf30abb0087554e3b4fe2a1d306.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f13d014658b92b60cf30abb0087554e3b4fe2a1d306.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "De Appel is een instelling die werd opgericht in 1975. Het werd al snel internationaal bekend als een alternatief institutioneel model, geboren uit de behoefte van kunstenaars om performance- en videokunst te presenteren. Vandaag de dag fungeert de Appel nog steeds als host voor artistieke en curatori\u00eble experimenten. Door middel van een programma van ingebedde kunst in scholen en de samenleving, een dertig jaar oud Curatorial Programme en een actief archief, brengt de Appel mensen samen om een wederzijdse uitwisseling van kennis te beoefenen door middel van tentoonstellingen en live activaties.",
+            "notes": "Een nacht vol hedendaagse kunst die ademt, beweegt, groeit en uitnodigt.",
+            "address": "Tolstraat 160, 1074 VM",
+            "coords": {
+                "lat": 52.357266,
+                "lng": 4.837672999999995
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 134,
+            "name": "De Bouwput",
+            "uri": "museum\/134\/de-bouwput",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/670a2a71038ed12a70850d47040255dca467f024d7cd3.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/670a2a71038ed12a70850d47040255dca467f024d7cd3.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "De Bouwput is een galerie waarin makers aan de slag gaan met een witte ruimte. Het werk bepaalt hoe de ruimte eruit ziet, waar het gesprek over gaat en hoe bezoekers daarop reageren. De Bouwput kent maar \u00e9\u00e9n regel: na gebruik dien je het terug op te leveren in zijn originele staat. Witte muren, grijze vloer.",
+            "notes": "Stap binnen in de Bouwput, waar kunstenaars de witte ruimte compleet transformeren en jij onderdeel wordt van hun creatie!",
+            "address": "Ferdinand Huyckstraat 74, 1061 HW",
+            "coords": {
+                "lat": 52.3830608,
+                "lng": 4.8428033
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 130,
+            "name": "de Brakke Grond",
+            "uri": "museum\/130\/de-brakke-grond",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/650c07d9263d6e900d639f7dc2406d2c84409740aef1d.jpg_460x.jpg",
+                "caption": "\u00a9 Sjoerd Derine, 2022."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/650c07d9263d6e900d639f7dc2406d2c84409740aef1d.jpg_1280x.jpg",
+                "caption": "\u00a9 Sjoerd Derine, 2022."
+            },
+            "about": "Vlaams Cultuurhuis de Brakke Grond is sinds 1981 d\u00e9 plek in Nederland voor vernieuwende Vlaamse podiumkunsten, beeldende kunst en muziek. Het cultuurhuis biedt Vlaamse makers niet alleen een podium in Amsterdam, maar heeft ook een enorm netwerk en vele samenwerkingen op andere locaties in Nederland.",
+            "notes": "Grensverleggende kunst van Vlaamse makers.",
+            "address": "Nes 45, 1012 KD",
+            "coords": {
+                "lat": 52.3712326,
+                "lng": 4.8942274
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 68,
+            "name": "Embassy of the Free Mind",
+            "uri": "museum\/68\/embassy-of-the-free-mind",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/61308d55cded995d64a979878eb53024fc7c59056fb20.png_460x.png",
+                "caption": "\u00a9 Rachel Ecclestone, 2018."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/61308d55cded995d64a979878eb53024fc7c59056fb20.png_1280x.png",
+                "caption": "\u00a9 Rachel Ecclestone, 2018."
+            },
+            "about": "In Embassy of the Free Mind gaat het over jou en jouw plek in de wereld. De bibliotheekcollectie, de Bibliotheca Philosophica Hermetica, UNESCO Memory of the World, bestaat uit meer dan 28.000 bijzondere en vaak eeuwenoude boeken. Allemaal vertellen ze op hun eigen manier dat de mens, de natuur en het universum op ieder niveau met elkaar verbonden zijn. Dus ook jij maakt deel uit van alles om je heen: All is One. In de boeken en afbeeldingen kun je van alles ontdekken over hermetische filosofie, alchemie, rozenkruisers, vrijmetselarij, kabbala, mystiek, magie, astrologie, tarot en meer. Ook filosofen en vrijdenkers die een rol hebben gespeeld in Amsterdam, zoals Spinoza, hebben er een een plek. En dan er is ook nog een alchemistische bloementuin en een caf\u00e9! De Embassy of the Free Mind zit in het Huis met de Hoofden op de Keizersgracht, een sfeervol historisch grachtenpand dat gebouwd is in 1622. Kom deze verborgen parel ontdekken!",
+            "notes": "Je bent meer verbonden met de dingen om je heen dan je denkt. In de Embassy ontdek je alles over jouw plek in het universum!",
+            "address": "Keizersgracht 123, 1015 CJ",
+            "coords": {
+                "lat": 52.376403,
+                "lng": 4.887368000000038
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 8,
+            "name": "Eye Filmmuseum",
+            "uri": "museum\/8\/eye-filmmuseum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_650026b5a276b82f5715e4cd26d1a936fc0574e3b01f4.JPG",
+                "caption": "\u00a9 Chuyun Zhang, 2021."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_650026b5a276b82f5715e4cd26d1a936fc0574e3b01f4.JPG",
+                "caption": "\u00a9 Chuyun Zhang, 2021."
+            },
+            "about": "Eye Filmmuseum is het enige museum voor film en de kunst van het bewegend beeld in Nederland. De collectie omvat meer dan 50.000 Nederlandse en internationale films en een veelvoud aan affiches, foto\u2019s, filmapparatuur, boeken en persoonlijke archieven, waaronder de vermaarde Unesco-werelderfgoedcollectie van filmpionier Jean Desmet. \r\n\r\nEye bewaart, restaureert en presenteert film; van klassiekers, kaskrakers en vroege avant-gardefilms tot en met de allernieuwste VR-experimenten. In het iconische gebouw aan het IJ organiseert Eye tentoonstellingen op het grensvlak van film en beeldende kunst en filmprogramma\u2019s die licht werpen op de allervroegste filmgeschiedenis, tot aan de meest actuele maatschappelijke ontwikkelingen. Ook stimuleert Eye het begrip van en de liefde voor film met educatieve programma\u2019s, in samenwerking met het onderwijs en de filmindustrie.",
+            "notes": "Zeg je film? Dan zeg je Eye. Ontdek hoe de meesters het deden en loop vervolgens naar buiten met je eigen flipbook.",
+            "address": "IJpromenade 1, 1031 KT",
+            "coords": {
+                "lat": 52.384456,
+                "lng": 4.901283000000035
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 45,
+            "name": "Fatih Moskee Amsterdam",
+            "uri": "museum\/45\/fatih-moskee-amsterdam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/650027e94c03f5e4d17a2c3e34a6f92291f0107e69e91.jpg_460x.jpg",
+                "caption": "\u00a9 Rosa Kartel, 2022."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/650027e94c03f5e4d17a2c3e34a6f92291f0107e69e91.jpg_1280x.jpg",
+                "caption": "\u00a9 Rosa Kartel, 2022."
+            },
+            "about": "Een beetje verborgen aan de Rozengracht ligt de Fatih Moskee. Waarschijnlijk de locatie met het meest diverse verleden: vergaderplaats voor socialisten, katholieke kerk, sleep-inn locatie voor hippies, tapijtenhal, muziekwinkel en nu dus een moskee. Een plek van stilte en reflectie\u00a0waar je alles kunt leren over de Islam, Turkse moskeecultuur en de verschillende klassieke kunstvormen.",
+            "notes": "In Amsterdam vind je niet snel een plek met zo'n veelzijdige geschiedenis als de Fatih Moskee.",
+            "address": "Rozengracht 150, 1016 NJ",
+            "coords": {
+                "lat": 52.3730308,
+                "lng": 4.878580599999999
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 9,
+            "name": "Foam",
+            "uri": "museum\/9\/foam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6130b9582a5b804dcd051c4a622479a7fe298072e226d.jpg_460x.jpg",
+                "caption": "\u00a9 Tom Doms, 2019."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6130b9582a5b804dcd051c4a622479a7fe298072e226d.jpg_1280x.jpg",
+                "caption": "\u00a9 Tom Doms, 2019."
+            },
+            "about": "Foam is d\u00e9 plek voor fotografie in al haar gedaanten in het centrum van Amsterdam: van documentaire tot mode, van eigentijds tot historisch. Een museum met een internationale allure dat durft te experimenteren en werk tentoonstelt van zowel gevestigde als opkomende kunstenaars. Als je er bent, vergeet dan niet even rond te snuffelen in de winkel vol prachtige prints en fotoboeken.",
+            "notes": "Fotografie van de allergrootsten \u00e9n van aanstormend talent.",
+            "address": "Keizersgracht 609, 1017 DS",
+            "coords": {
+                "lat": 52.3640863,
+                "lng": 4.893322399999988
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 43,
+            "name": "Grachtenmuseum",
+            "uri": "museum\/43\/grachtenmuseum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/650034f576c2f89772e8b40a677360c8d5e9f82f34193.jpg_460x.jpg",
+                "caption": "\u00a9 Nathan van Ewijk, 2022."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/650034f576c2f89772e8b40a677360c8d5e9f82f34193.jpg_1280x.jpg",
+                "caption": "\u00a9 Nathan van Ewijk, 2022."
+            },
+            "about": "In het Grachtenmuseum leer je op avontuurlijke wijze de geschiedenis van Amsterdam en haar grachten kennen. Je ontdekkingstocht start 400 jaar terug in de tijd en je ziet de grachten en de stad om je heen ontstaan in de audiovisuele tour door de vaste tentoonstelling. Het museum is gevestigd in een 17e-eeuws grachtenhuis aan de Herengracht met klassieke stijlkamers, waar je ook tijdelijke (foto)tentoonstellingen kunt bekijken.",
+            "notes": "Ontdek alles over de Amsterdamse grachten in een monumentaal grachtenpand!",
+            "address": "Herengracht 386, 1016 CJ",
+            "coords": {
+                "lat": 52.3678867,
+                "lng": 4.886289300000044
+            },
+            "capacity": "open",
+            "capacity_title": "Open"
+        },
+        {
+            "id": 11,
+            "name": "H'ART Museum",
+            "uri": "museum\/11\/hart-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6673f56de6593e0016ea6f6f22c838f86c58abfb67f35.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6673f56de6593e0016ea6f6f22c838f86c58abfb67f35.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "H\u2019ART Museum brengt kunst en verhalen van over de hele wereld op een eigenzinnige manier bij elkaar in Amsterdam. Het museum kijkt over grenzen en opent vensters voor wereldberoemde collecties. Dat doen ze in samenwerking met internationale museale partners: British Museum, Centre Pompidou en Smithsonian American Art Museum.",
+            "notes": "H'ART Museum werkt samen met de internationale museumtop.",
+            "address": "Amstel 51, 1018 DR",
+            "coords": {
+                "lat": 52.365268,
+                "lng": 4.902342
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 42,
+            "name": "Harry Mulisch Huis",
+            "uri": "museum\/42\/harry-mulisch-huis",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5e26d836eda366cfb6ac4330b2bd7aa62f962e8b5c0a2.jpg_460x.jpg",
+                "caption": "\u00a9 Jaap Beyleveld, 2018."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5e26d836eda366cfb6ac4330b2bd7aa62f962e8b5c0a2.jpg_1280x.jpg",
+                "caption": "\u00a9 Jaap Beyleveld, 2018."
+            },
+            "about": "Soms zijn de dingen gewoon zoals ze klinken. Het Harry Mulisch Huis is het huis van wijlen Harry Mulisch, met de kamer waar de schrijver werkte, rookte en geografische patronen over zijn vloerkleed ijsbeerde. Het is precies gebleven zoals het werd achtergelaten, dus bijna\u00a0alles in de werkkamer heeft op \u00e9\u00e9n of andere manier met zijn boeken te maken. Ga vooral als je de boeken van Mulisch fantastisch vindt en geniet van 'behind the scenes'. Neem dan trouwens vooral ook een kijkje bij kunstenaarssoci\u00ebteit\u00a0Arti et\u00a0Amicitiae, of natuurlijk het Multatuli Museum.",
+            "notes": "Waan je een groot schrijver in de werkkamer van Mulisch.",
+            "address": "Leidsekade 105, 1017 PP",
+            "coords": {
+                "lat": 52.3629401,
+                "lng": 4.882073200000036
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 53,
+            "name": "Heesterveld Creative Community",
+            "uri": "museum\/53\/heesterveld-creative-community",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6139e3304b57dae49923f987aaa8117622dddb85193f2.jpg_460x.jpg",
+                "caption": "\u00a9 David Hup, 2019."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6139e3304b57dae49923f987aaa8117622dddb85193f2.jpg_1280x.jpg",
+                "caption": "\u00a9 David Hup, 2019."
+            },
+            "about": "Heesterveld Creative Community (HCC) is een culturele broedplaats in het centrum van Amsterdam Zuidoost.\r\nVan workshops en lezingen tot kunstexposities, concerten en full blown block parties, zowel voor de community zelf als de buurt eromheen. HCC is het archetype van een werkende, bruisende en aantrekkelijke creative community.\r\nDe community bestaat uit kunstenaars, creatives en artiesten verspreid over diverse vakgebieden, in verschillende fases van hun carri\u00e8re. Gevestigd in het kleurrijke C-vormige blok met een eigen binnenplaats, diverse shops, culturele instellingen en een event-space, pal naast metrostation Bullewijk.",
+            "notes": "Creatieve broedplaats in Zuidoost.",
+            "address": "Heesterveld 75, 1102 SB",
+            "coords": {
+                "lat": 52.3066515,
+                "lng": 4.954267999999956
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 79,
+            "name": "Het Allard Pierson",
+            "uri": "museum\/79\/het-allard-pierson",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d6e59d72097904806b303810f63c412e53f7cc33ae81.jpg_460x.jpg",
+                "caption": "\u00a9 David Hup, 2017."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d6e59d72097904806b303810f63c412e53f7cc33ae81.jpg_1280x.jpg",
+                "caption": "\u00a9 David Hup, 2017."
+            },
+            "about": "Het Allard Pierson is een museum vol verhalen, van mensen en de voorwerpen die ze nalieten. Het is de schatkamer van de Universiteit van Amsterdam waar je kunt tijdreizen door 10.000 jaar cultuurgeschiedenis. Maak een wandeling langs de Egyptische oudheid, de Griekse en Romeinse werelden of ontdek de beelden in de Gipsengalerij, de kaarten in de GeoZone en de muziekcollectie in de Studio! In de Onderzoekzaal kun je op afspraak de collecties verkennen. Je vindt er bronnen over de meest uiteenlopende onderwerpen. Hier komen wetenschap, erfgoed en publiek samen in het hart van de stad.",
+            "notes": "Klimaatstress? Ga op consult in het Allard Pierson.",
+            "address": "Oude Turfmarkt 127, 1012 GC",
+            "coords": {
+                "lat": 52.368800618906896,
+                "lng": 4.893026589881856
+            },
+            "capacity": "open",
+            "capacity_title": "Open"
+        },
+        {
+            "id": 12,
+            "name": "Het Scheepvaartmuseum",
+            "uri": "museum\/12\/het-scheepvaartmuseum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/65003a09ad289982f2170d1e0a4095cb49eca8d278228.jpg_460x.jpg",
+                "caption": "\u00a9 Simon Lenskens, 2019."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/65003a09ad289982f2170d1e0a4095cb49eca8d278228.jpg_1280x.jpg",
+                "caption": "\u00a9 Simon Lenskens, 2019."
+            },
+            "about": "Ruim 500 jaar maritieme geschiedenis in een van de meest indrukwekkende gebouwen van Amsterdam. Ontdek de bijzondere collectie van Het Scheepvaartmuseum terwijl je door de gangen van het 17e-eeuwse monument wandelt. \r\n\r\nDit jaar staat Museumnacht in Het Scheepvaartmuseum volledig in het teken van de tentoonstelling Schaduwen op de Atlantische Oceaan. Leer meer over de koloniale geschiedenis in het Atlantisch gebied en de invloed daarvan op onze wereld nu. Met muziek van salsaband Los Pipos en Kurashi Collective, dansperformances, tours en workshops, is er overal in het museum iets te doen.",
+            "notes": "Een avond over de impact van de koloniale geschiedenis op mensenlevens.",
+            "address": "Kattenburgerplein 1, 1018 KK",
+            "coords": {
+                "lat": 52.371415,
+                "lng": 4.915063000000032
+            },
+            "capacity": "open",
+            "capacity_title": "Open"
+        },
+        {
+            "id": 123,
+            "name": "Huis Bartolotti",
+            "uri": "museum\/123\/huis-bartolotti",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_650309c2778a0a977cf52cc9d65ae904855f22926d5c5.jpeg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_650309c2778a0a977cf52cc9d65ae904855f22926d5c5.jpeg",
+                "caption": ""
+            },
+            "about": "Huis Bartolotti werd omstreeks 1620 gebouwd in opdracht van de schatrijke bankier-koopman Willem Bartolotti van den Heuvel. Het is zonder twijfel \u00e9\u00e9n van de mooiste grachtenpanden van de stad. De gevel is overdadig versierd met ornamenten en fantasierijk beeldhouwwerk en eenmaal binnen krijg je het gevoel dat je een sprookje bent binnengestapt. Laat je onderdompelen in de vele bijzondere details en vergeet niet af en toe naar boven te kijken!",
+            "notes": "Vergaap je aan ornamenten, marmer en oogverblindende kroonluchters.",
+            "address": "Herengracht 170, 1016 BP Amsterdam",
+            "coords": {
+                "lat": 52.3738843,
+                "lng": 4.8869412
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 21,
+            "name": "Huis Willet-Holthuysen",
+            "uri": "museum\/21\/huis-willet-holthuysen",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/650c0572a826c234ab0c0f5a8470d2e05582656bee0a7.jpg_460x.jpg",
+                "caption": "\u00a9 Hannah Bults, 2022."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/650c0572a826c234ab0c0f5a8470d2e05582656bee0a7.jpg_1280x.jpg",
+                "caption": "\u00a9 Hannah Bults, 2022."
+            },
+            "about": "Huis Willet-Holthuysen ontleent zijn naam aan het echtpaar dat hier eind 19e eeuw woonde: Abraham Willet en Louisa Holthuysen. Zij verzamelden veel kunst en objecten en lieten het interieur vormgeven naar hun eigen smaak. Ook toen werd deze pracht al beschouwd als een herinnering aan een romantisch verleden. Het interieur was voor het echtpaar d\u00e9 manier om hun smaak en rijkdom te delen met anderen. Na de dood van Louisa Holthuysen in 1895 schonk zij het huis met collectie aan de stad Amsterdam, met de bedoeling dat het een museum zou worden. Ruim honderd jaar later is Huis Willet-Holthuysen nog steeds te bezichtigen. Het is nu een van de locaties van het Amsterdam Museum.",
+            "notes": "Ontdek de rijke kunstgeschiedenis van dit weelderige grachtenpand.",
+            "address": "Herengracht 605, 1017 CE",
+            "coords": {
+                "lat": 52.3656739,
+                "lng": 4.898980199999983
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 142,
+            "name": "ICK Space for Dance Art",
+            "uri": "museum\/142\/ick-space-for-dance-art",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66968c1931491b708a6c8691bd1b9f6fb69a0a46fbf33.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66968c1931491b708a6c8691bd1b9f6fb69a0a46fbf33.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "In het iconische Westbeat gebouw cre\u00ebert dansgezelschap ICK ruimte voor hedendaagse dans, voorstellingen, workshops en symposia met kunstenaars uit de hele wereld.",
+            "notes": "Een avond met hedendaagse dans en kunstenaars uit de hele wereld.",
+            "address": "Rijnlandlaan 3, 1062 MX",
+            "coords": {
+                "lat": 52.3576472,
+                "lng": 4.8401179
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 148,
+            "name": "iso Amsterdam",
+            "uri": "museum\/148\/iso-amsterdam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66e93decbd6a4829c06c7893a3b2e5093b8b0503e89d3.jpg_460x.jpg",
+                "caption": "Foto: Ernst van Deursen"
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66e93decbd6a4829c06c7893a3b2e5093b8b0503e89d3.jpg_1280x.jpg",
+                "caption": "Foto: Ernst van Deursen"
+            },
+            "about": "iso is een samenwerkingsverband dat een publiek programma combineert met tentoonstellingen, workshops, lezingen, performances en (muziek)evenementen. Een podium voor de (inter)nationale culturele gemeenschap, continu in ontwikkeling. Hier ontdek je meer dan 30 individuele en gedeelde ateliers, de intieme werkplekken van tientallen creatieve professionals vanuit allerlei disciplines: design, technologie, architectuur, schilder- en beeldhouwkunst, keramiek, fotografie en meer.",
+            "notes": "Design, technologie, architectuur, schilder- en beeldhouwkunst, keramiek, fotografie en meer.",
+            "address": "Isolatorweg 17, 1014 AS",
+            "coords": {
+                "lat": 52.3907774,
+                "lng": 4.850187399999999
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 16,
+            "name": "Joods Museum",
+            "uri": "museum\/16\/joods-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d481cba14ea61812cdb40406d2cc39513cfbca710ab8.jpg_460x.jpg",
+                "caption": "\u00a9 Renzo Gerritsen, 2018."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d481cba14ea61812cdb40406d2cc39513cfbca710ab8.jpg_1280x.jpg",
+                "caption": "\u00a9 Renzo Gerritsen, 2018."
+            },
+            "about": "Wie waren de Joden die vanaf 1600 naar Nederland kwamen? Wat wordt er gevierd tijdens Pesach? En waarom dragen Joden eigenlijk een keppel? Dat ontdek je in het Joods Museum.\r\n\r\nAan de hand van persoonlijke verhalen, bijzondere objecten en kunst kom je alles te weten over Joodse religie, geschiedenis en cultuur. Je maakt kennis met gebruiken, rituelen en feesten en ziet hoe Joden vandaag de dag hun tradities vormgeven. Ontdek het Joods leven van toen tot nu en alles daartussenin.",
+            "notes": "Zin in een openhartig en verdiepend gesprek over seksualiteit?",
+            "address": "Nieuwe Amstelstraat 1, 1011 PL",
+            "coords": {
+                "lat": 52.3671182,
+                "lng": 4.903815500000064
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 101,
+            "name": "Kazerne Reigersbos",
+            "uri": "museum\/101\/kazerne-reigersbos",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f726d74ce86871bcf71f4f56801d7b60f8bfe9d4f21.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f726d74ce86871bcf71f4f56801d7b60f8bfe9d4f21.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "Kazerne Reigersbos is een community die de buurt verbindt en een broedplaats is voor homegrown creatives. In deze voormalige Brandweerkazerne in hartje Zuidoost vind je 18 studio\u2019s voor creatieve ondernemers, kunstenaars en culturele organisaties. Daarnaast zijn er een muziekproductieruimte, buurtwerkplaats, flex-werkplekken, (buurt)podium, keuken, koffiebar en sportzaal te vinden in het gebouw. Op het binnenterrein is in samenwerking met Timberland een community garden opgezet waar buurtbewoners kunnen samenkomen.",
+            "notes": "In hartje Zuidoost vind je 18 studio\u2019s voor creatieve ondernemers, kunstenaars en culturele organisaties.",
+            "address": "Remmerdenplein 100, 1106 AK",
+            "coords": {
+                "lat": 52.29748053101558,
+                "lng": 4.974317090971012
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 122,
+            "name": "Levend Paardenmuseum",
+            "uri": "museum\/122\/levend-paardenmuseum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f53e78d36278de711c21a23dffa80715abf6eace3ff.jpg_460x.jpg",
+                "caption": "\u00a9 Reinout Bos, 2023."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f53e78d36278de711c21a23dffa80715abf6eace3ff.jpg_1280x.jpg",
+                "caption": "\u00a9 Reinout Bos, 2023."
+            },
+            "about": "Midden in het centrum van Amsterdam, op steenworp afstand van het Leidseplein en grenzend aan het Vondelpark, bevindt zich een goed bewaard geheim. Een onopvallende poort in de Vondelstraat geeft toegang tot de mooiste stadsmanege van Europa: De Hollandsche Manege, thuisbasis van het Levend Paardenmuseum. Hier duik je in de wereld van het paard en de historie van het bijzondere pand. Onderwerpen als paardenhouderij, de klassieke paardrijdkunst en de historie van deze oudste nog in gebruik zijnde stadsmanege komen aan bod.",
+            "notes": "De mooiste manege van het land opent haar deuren, midden in Amsterdam!",
+            "address": "Vondelstraat 140, 1054 GT Amsterdam",
+            "coords": {
+                "lat": 52.3608963,
+                "lng": 4.8721135
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 107,
+            "name": "Luther Museum Amsterdam",
+            "uri": "museum\/107\/luther-museum-amsterdam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66d720943740d88afbaa5d8637a435aa85e4f20eb09fa.jpg_460x.jpg",
+                "caption": "\u00a9 Noa Sussenbach, 2023."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66d720943740d88afbaa5d8637a435aa85e4f20eb09fa.jpg_1280x.jpg",
+                "caption": "\u00a9 Noa Sussenbach, 2023."
+            },
+            "about": "Het Luther Museum Amsterdam is gevestigd in gebouw Wittenberg aan de Nieuwe Keizersgracht. Het pand uit 1772 is gebouwd als het Evangelisch-Luthers Diaconie Oude Mannen- en Vrouwenhuis en speelde een belangrijke rol bij de opvang van armen, ouderen en wezen. Het Luther Museum laat aan de hand van belangrijk erfgoed het verhaal zien van de lutheranen in Amsterdam en in Nederland, met een eigen wijze van geloven en veel zorg voor elkaar.",
+            "notes": "Verdwaal in de regentenkamers en leer alles over het lutheranisme.",
+            "address": "Nieuwe Keizersgracht 570, 1018 VG Amsterdam",
+            "coords": [],
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 98,
+            "name": "MACA: Moving Arts Centre Amsterdam",
+            "uri": "museum\/98\/maca-moving-arts-centre-amsterdam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_63173d70988cfdb191245a2335baf9562852196ad5bea.jpeg",
+                "caption": "\u00a9 Prins de Vos, 2021."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_63173d70988cfdb191245a2335baf9562852196ad5bea.jpeg",
+                "caption": "\u00a9 Prins de Vos, 2021."
+            },
+            "about": "MACA is een werkplek, cinema en een kunstplatform voor filmmakers en andere audiovisuele kunstenaars op het NDSM-terrein. Door een community en een platform te cre\u00ebren hoopt MACA artiesten verder te helpen met het verwezenlijken van hun ambities. Een rauwe broedplaats in Noord, voor en door kunstenaars.",
+            "notes": "Ontdek generatieve kunst met workshops, film en werk van jonge makers.",
+            "address": "Ms. van Riemsdijkweg 61, 1033 RC",
+            "coords": {
+                "lat": 52.3989177,
+                "lng": 4.8918669
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 106,
+            "name": "MAQAM",
+            "uri": "museum\/106\/maqam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_64f727b3b02de87663d011e07c99457befc17efd7c0a3.JPG",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_64f727b3b02de87663d011e07c99457befc17efd7c0a3.JPG",
+                "caption": ""
+            },
+            "about": "MAQAM is een inventieve plek waar creatieven, buurtbewoners en talent samenkomen voor cultureel artistieke programmering. Het Amsterdams Andalusisch Orkest, Meervaart en FOAM vinden elkaar hier in een kwalitatieve programmering voor en met de buurt.",
+            "notes": "Wist jij dat MAQAM staat voor 'muzikale melodieuze modus'?",
+            "address": "Jan van Schaffelaarplantsoen 2, 1061 BS  Amsterdam",
+            "coords": {
+                "lat": 52.37841459305723,
+                "lng": 4.841451838653552
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 138,
+            "name": "Melkweg Expo",
+            "uri": "museum\/138\/melkweg-expo",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6694e309997627442c864fe5f89741b810b76618f14e0.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6694e309997627442c864fe5f89741b810b76618f14e0.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "Melkweg Expo is een expositieruimte voor innovatieve, hedendaagse beeldcultuur en een platform voor opkomende kunstenaars in het hart van Amsterdam. Met fotografie over identiteit, onze samenleving en popcultuur in de breedste zin van het woord als hoeksteen, verwelkomt Melkweg Expo daarnaast ook regelmatig andere vormen van beeldende kunst. Gekenmerkt door een toegankelijke aanpak, presenteren ze kunst die innovatief, betrokken en inclusief is. De kerndoelstelling is het begeleiden, promoten en presenteren van opkomend talent.",
+            "notes": "Melkweg Expo geeft opkomend talent een podium in het hart van de stad.",
+            "address": "Lijnbaansgracht 234A, 1017 PH",
+            "coords": {
+                "lat": 52.3648365,
+                "lng": 4.8812733
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 19,
+            "name": "Museum het Schip",
+            "uri": "museum\/19\/museum-het-schip",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f543358944f1a93b3dce8496762a1c7d112cbd00d89.jpg_460x.jpg",
+                "caption": "\u00a9 36framez, 2023."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f543358944f1a93b3dce8496762a1c7d112cbd00d89.jpg_1280x.jpg",
+                "caption": "\u00a9 36framez, 2023."
+            },
+            "about": "Die golvende baksteengevels en decoratieve ornamenten die je door de hele stad vindt als je even omhoog kijkt? Amsterdamse School! Deze stroming kwam aan het begin van de vorige eeuw op en is toonaangevend voor de architectuur in onze stad. Museum Het Schip, geheel gebouwd in deze stijl, is d\u00e9 plek om meer te leren over de geschiedenis en de idee\u00ebn achter deze gebouwen. Ontdek de verbintenissen tussen architecten, meubelbouwers en andere ontwerpers in dit prachtige pand met het Torentje.",
+            "notes": "Maak je eigen botanische kunstwerk of schuif aan bij de gi-ga-gentrificatiebingo.",
+            "address": "Oostzaanstraat 45, 1013 WG",
+            "coords": {
+                "lat": 52.390384,
+                "lng": 4.873871
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 49,
+            "name": "Museum Ons' Lieve Heer op Solder",
+            "uri": "museum\/49\/museum-ons-lieve-heer-op-solder",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f9d82e291061ebdbd2d6b8fda8eba0680e8fdbac540.jpg_460x.jpg",
+                "caption": "\u00a9 Shot by Sylla, 2021."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f9d82e291061ebdbd2d6b8fda8eba0680e8fdbac540.jpg_1280x.jpg",
+                "caption": "\u00a9 Shot by Sylla, 2021."
+            },
+            "about": "Museum Ons' Lieve Heer op Solder is h\u00e9t museale toonbeeld van hoe Amsterdam in de 17e eeuw andersdenkenden tolereerde. Het pand, erkend als UNESCO monument, diende zowel als woonhuis, winkel en als kerk. En dat midden in de historische binnenstad, op de Amsterdamse Wallen. De kerk is ontstaan als zolderkerk in de tijd dat Joden, Lutheranen en Rooms-Katholieke gelovigen geen openbare missen of vieringen mochten houden. Tegenwoordig moet je door het meest bruisende gedeelte van het centrum, langs kroegen, prostituees en de coffeeshops, voor deze les in vrijheid en vaderlandse geschiedenis.",
+            "notes": "Deze eeuwenoude schuilkerk is een levend monument op de Wallen!",
+            "address": "Oudezijds Voorburgwal 38-40, 1012 GD",
+            "coords": {
+                "lat": 52.3751438,
+                "lng": 4.899435799999992
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 18,
+            "name": "Museum Rembrandthuis",
+            "uri": "museum\/18\/museum-rembrandthuis",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d6f8b5c945eae11f1d4a40913bc618b67f72776d4af5.jpg_460x.jpg",
+                "caption": "\u00a9 Rafael Dimiioniatis, 2018"
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d6f8b5c945eae11f1d4a40913bc618b67f72776d4af5.jpg_1280x.jpg",
+                "caption": "\u00a9 Rafael Dimiioniatis, 2018"
+            },
+            "about": "Twintig jaar lang woonde en werkte Rembrandt in het pand tegenover de Sluyswacht. Hier beleefde hij lief en leed en werd hij de allergrootste. Nu kun jij op deze plek lekker vrij rondneuzen. Bekijk de (wisselende) tentoonstellingen, ontdek zijn woonhuis en leer meer over zijn tijdgenoten en leerlingen. Je stapt letterlijk de 17de eeuw binnen en leert van alles over de man achter de Nachtwacht. Dichter bij Rembrandt kom je echt niet.",
+            "notes": "Twintig jaar lang woonde Rembrandt in het pand op de Jodenbreestraat. Laat je inspireren door zijn werkwijze en ets je eigen werk.",
+            "address": "Jodenbreestraat 4, 1011 NK",
+            "coords": {
+                "lat": 52.36933189722224,
+                "lng": 4.901234115344209
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 31,
+            "name": "Museum Tot Zover",
+            "uri": "museum\/31\/museum-tot-zover",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d697352c9879a25cd418594e818f75f4e27eba4f73bc.jpg_460x.jpg",
+                "caption": "\u00a9 Almicheal Fraay, 2018."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d697352c9879a25cd418594e818f75f4e27eba4f73bc.jpg_1280x.jpg",
+                "caption": "\u00a9 Almicheal Fraay, 2018."
+            },
+            "about": "Hoe we omgaan met de dood vertelt veel over hoe we in het leven staan. Het lijkt misschien luguber, maar Museum Tot Zover prikkelt je om stil te staan bij sterfelijkheid en de verschillende rituelen en culturen die bij een uitvaart horen. Het is een museum, maar ook een plek om kennis en ervaringen te delen; waar je leert reflecteren op iets waar niemand echt naar uit kijkt.\r\n\u00a0",
+            "notes": "De dood: we ontkomen er niet aan dus laten we 'm op een luchtige manier bespreken!",
+            "address": "Kruislaan 124, 1097 GA",
+            "coords": {
+                "lat": 52.3465968,
+                "lng": 4.938243800000009
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 24,
+            "name": "Museum van de Geest",
+            "uri": "museum\/24\/museum-van-de-geest",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f1369b81f6470f99956b2106f744485f85057b1c8e5.jpg_460x.jpg",
+                "caption": "Foto: Bastiaan van Musscher"
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f1369b81f6470f99956b2106f744485f85057b1c8e5.jpg_1280x.jpg",
+                "caption": "Foto: Bastiaan van Musscher"
+            },
+            "about": "Wij zijn het Museum van de Geest. We zijn gefascineerd door het kunstwerk tussen je oren. Want niets is zo divers, uniek, krachtig en tegelijkertijd zo kwetsbaar als de menselijke geest.\r\n\r\nOnze vestiging in Amsterdam vind je, samen met het Amsterdam Museum, in het gebouw van het H\u2019ART Museum. Zo bezoek je tijdens Museumnacht drie musea in \u00e9\u00e9n gebouw!",
+            "notes": "Laat je verrassen en verbreed je blik op wat 'normaal' is, en neem ook zeker een kijkje bij onze samenwerkingspartner de Outsider Art Galerie voor nog meer activiteiten!",
+            "address": "Amstel 51, 1018 EJ",
+            "coords": {
+                "lat": 52.3657717,
+                "lng": 4.902782099999968
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 20,
+            "name": "Museum Van Loon",
+            "uri": "museum\/20\/museum-van-loon",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6142f8f281473417424df5424381b97409232a5ace51d.jpg_460x.jpg",
+                "caption": "\u00a9 Tom Doms, 2019."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6142f8f281473417424df5424381b97409232a5ace51d.jpg_1280x.jpg",
+                "caption": "\u00a9 Tom Doms, 2019."
+            },
+            "about": "In het hart van Amsterdam staat het voormalige woonhuis van de regentenfamilie Van Loon. Het museum biedt een unieke kans om achter de gevels van een 17e-eeuws huis te kijken en de plek te bezoeken alsof de familie elk moment thuis kan komen. Het huis \u2013 ca. 1672 voltooid \u2013 is sinds 1884 aan de familie Van Loon verbonden en is ingericht met de familiecollectie meubelen, zilver, porselein en portretten. Je staat oog in oog met de bewoners van toen en ervaart de wooncultuur in de oorspronkelijke historische omgeving en sfeer. Eenmaal binnen word je voorzien van familieanekdotes, kunsthistorische topstukken en relevante hoofdstukken uit de geschiedenis van Nederland. De geschiedenis van de familie Van Loon geeft daarbij aanleiding voor het organiseren van tijdelijke tentoonstellingen met de familiegeschiedenis, het huis of de collectie als uitgangspunt.",
+            "notes": "Verwonder je over de pracht en praal van dit 17e-eeuwse regentenpand.",
+            "address": "Keizersgracht 672, 1017 ET",
+            "coords": {
+                "lat": 52.363493,
+                "lng": 4.893427999999972
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 35,
+            "name": "Museum Vrolik",
+            "uri": "museum\/35\/museum-vrolik",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_5d77a15538f61dfd18667ddbbafbf20a548bf953eedf8.jpeg",
+                "caption": "\u00a9 Suzie Hagens, 2017."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_5d77a15538f61dfd18667ddbbafbf20a548bf953eedf8.jpeg",
+                "caption": "\u00a9 Suzie Hagens, 2017."
+            },
+            "about": "Museum Vrolik heeft een van de meest unieke collecties van Amsterdam. De historische anatomische collectie van het Amsterdam UMC (locatie AMC) zal je verwonderen en ontroeren. Je wordt meegenomen naar de 18e en 19e eeuw, toen de geneeskunde totaal anders was dan wij nu gewend zijn. De collectie telt meer dan 10.000 preparaten die uiteenlopen van dierengeraamten tot hersenen op sterk water. Er valt voor iedereen wat te zien. Leer over je eigen lichaam of bestudeer alle dieren uit het dierenrijk.",
+            "notes": "Hersenen op sterk water? Ja graag! Ontdek de anatomische collectie van Vrolik.",
+            "address": "Meibergdreef 15, 1105 AZ",
+            "coords": {
+                "lat": 52.294163,
+                "lng": 4.95999699999993
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 133,
+            "name": "Museumtramlijn",
+            "uri": "museum\/133\/museumtramlijn",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66e97f4ba4557a5d2401cd3e67a0079a7e9f83fef4b77.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66e97f4ba4557a5d2401cd3e67a0079a7e9f83fef4b77.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "De Museumtramlijn is meer dan een ritje van A naar B. Veel meer. Deze tramtoestellen zijn meestal meer dan honderd jaar oud en ware kunstwerken op zich. Omgeef je door de geur van gelakt hout en nostalgie en arriveer jij in stijl bij je volgende bestemming.",
+            "notes": "Deze prachtige rijdende kunstwerken brengen jou in stijl naar je volgende bestemming.",
+            "address": "Amstelveenseweg 264, 1075 XV",
+            "coords": {
+                "lat": 52.3493779,
+                "lng": 4.8567045
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 132,
+            "name": "Nationaal Holocaustmuseum",
+            "uri": "museum\/132\/nationaal-holocaustmuseum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/662632b8838b80ff02645b5d2d6ef28e2c741b151022e.jpg_460x.jpg",
+                "caption": "\u00a9 Max Hart Nibbrig"
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/662632b8838b80ff02645b5d2d6ef28e2c741b151022e.jpg_1280x.jpg",
+                "caption": "\u00a9 Max Hart Nibbrig"
+            },
+            "about": "Het Nationaal Holocaustmuseum is het eerste en enige museum dat de geschiedenis van de Jodenvervolging in heel Nederland vertelt. V\u00f3\u00f3r de Tweede Wereldoorlog leefden Joden en niet-Joden hier met, naast en langs elkaar, met dezelfde rechten. Tijdens de bezetting in de oorlog vermoordden de nazi\u2019s in Europa ongeveer zes miljoen Joden. Dit kennen we als de Holocaust of Sjoa. In Nederland werd driekwart van de Joodse bevolking vermoord. Het Nationaal Holocaustmuseum presenteert deze geschiedenis zonder terughoudendheid en geeft de slachtoffers een gezicht. Daarnaast behandelt het museum het dagelijks leven van Joden zowel voor de Tweede Wereldoorlog als na de bevrijding. Ook de omgang met de Holocaust in onze herinneringscultuur komt aan bod.\r\n \r\nHet museum, in maart 2024 geopend in de voormalige Hervormde Kweekschool aan de Amsterdamse Plantage Middenlaan, zet bezoekers aan tot nadenken over menselijk handelen. Persoonlijke verhalen vertellen een geschiedenis van mensen. Wat mensen andere mensen aandeden, maar ook hoe blijvend beschadigde mensen het leven na de oorlog weer oppakten. Als een mens dat kan in die omstandigheden, zit dat dan ook in ons? Wat kunnen wij daarvan leren?",
+            "notes": "Verdiep je in de geschiedenis van de Jodenvervolging.",
+            "address": "Plantage Middellaan 27, 1018 DB",
+            "coords": {
+                "lat": 52.3669081,
+                "lng": 4.911054
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 136,
+            "name": "NDSM FUSE",
+            "uri": "museum\/136\/ndsm-fuse",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66b63fd9c9b1665548cc617037d2a69a8bbbb7e968701.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66b63fd9c9b1665548cc617037d2a69a8bbbb7e968701.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "NDSM FUSE is een onafhankelijke, door kunstenaars gerunde presentatievloer voor hedendaagse kunst. Onder de naam NDSM XPO tonen makers en creatieven van de NDSM-werf hun werk in het eerste deel van de presentatievloer. In het tweede deel en in de WUNDERKAMMER, vijf presentatievitrines, bezoek je het hele jaar door wisselende gastexposities.\r\n\r\nHet bekijken en ervaren van kunst vergroot het inlevingsvermogen in andere mensen en culturen. Het biedt een verfrissend perspectief, een nieuw geluid. NDSM FUSE focust op deze verbindende kracht door verschillende disciplines samen te brengen. Exposities van kunstenaars van de NDSM combineert NDSM FUSE met theatervoorstellingen, evenementen en initiatieven van kunstenaars van buiten de NDSM. NDSM FUSE bezielt.",
+            "notes": "NDSM FUSE is een continu veranderende plek voor hedendaagse kunst.",
+            "address": "NDSM-Plein 29, 1033 WC",
+            "coords": {
+                "lat": 52.40113600000001,
+                "lng": 4.895482599999999
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 23,
+            "name": "NEMO Science Museum",
+            "uri": "museum\/23\/nemo-science-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_631750cd9a6cb592f018b1be7979fcc036ca40c65b89e.jpeg",
+                "caption": "\u00a9 Oscar Aukes, 2018."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_631750cd9a6cb592f018b1be7979fcc036ca40c65b89e.jpeg",
+                "caption": "\u00a9 Oscar Aukes, 2018."
+            },
+            "about": "Museumnacht? Museum lacht! Wat doet lachen met je pijngrens? Hoe helpt comedy om klimaatverandering bespreekbaar te maken? En kun je humor aanleren? Deze Museumnacht staat NEMO in het teken van de lach. Wie zegt dat wetenschap en humor niet samen kunnen gaan?\u202f\r\n\r\nBij NEMO denk je aan reuzenbellenblaas, scheikundige proefjes en schooluitjes, maar er is veel meer te doen in dit bijzondere gebouw aan het IJ. NEMO daagt je uit om vragen te stellen en zelf op onderzoek uit te gaan. Zo leer je jezelf en de wereld om je heen beter begrijpen.",
+            "notes": "Reuzenbellenblazen, de kettingreactie en alles over lachen.",
+            "address": "Oosterdok 2, 1011 VX",
+            "coords": {
+                "lat": 52.3742111,
+                "lng": 4.9123385
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 99,
+            "name": "Nieuw Dakota",
+            "uri": "museum\/99\/nieuw-dakota",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f72cdd086bd99c1fe9596710135be63f3d7ec235ceb.jpg_460x.jpg",
+                "caption": "\u00a9 Prins de Vos, 2021."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f72cdd086bd99c1fe9596710135be63f3d7ec235ceb.jpg_1280x.jpg",
+                "caption": "\u00a9 Prins de Vos, 2021."
+            },
+            "about": "Nieuw Dakota is een tentoonstellingsruimte voor hedendaagse kunst, gehuisvest op de voormalige NDSM-werf in Amsterdam-Noord. Nieuw Dakota biedt een veelzijdige programmering waar kunstenaars, partners en publiek anderen uitdagen \u00e9n zelf uitgedaagd worden tot een open geest en een nieuw perspectief op een veranderende wereld.\r\n\r\nDe wisselende tentoonstellingen, rondleidingen, educatieve programmering, performances en lezingen brengen de bezoeker in contact met de belevingswereld en denkbeelden van de ander. Kunst maakt nieuwsgierig, verbreedt onze blik en verruimt onze leefwereld. Hiermee is Nieuw Dakota meer dan alleen een fysieke plek; het is een state of mind.",
+            "notes": "Nieuw Dakota is een tentoonstellingsruimte voor hedendaagse kunst op de NDSM-werf in Amsterdam.",
+            "address": "Ms. van Riemsdijkweg 41b, 1033 RC",
+            "coords": {
+                "lat": 52.40038329999999,
+                "lng": 4.89202
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 109,
+            "name": "Nxt Museum",
+            "uri": "museum\/109\/nxt-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f28cbecbb97ee1ba656849e2175609fe09f083568cf.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f28cbecbb97ee1ba656849e2175609fe09f083568cf.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "Nxt Museum presenteert de kunst van nu. Als thuisbasis van kunst en technologie toont Nxt Museum grootschalige installaties gemaakt door toonaangevende kunstenaars, wetenschappers en algoritmes. Omdat kunst de tijdsgeest weerspiegelt, gelooft Nxt dat de meest innovatieve kunst ons de mogelijkheid geeft om op de impact van technologische ontwikkelingen te reflecteren. Een moment van bezinning in een realiteit die alsmaar sneller doorontwikkelt.",
+            "notes": "Nxt Museum is het eerste museum in Nederland dat zich volledig richt op mediakunst.",
+            "address": "Asterweg 22, 1031 HP",
+            "coords": {
+                "lat": 52.3911552,
+                "lng": 4.9043374
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 69,
+            "name": "OSCAM",
+            "uri": "museum\/69\/oscam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f9d56d72301567832dc1794ebb17fe2ca03911ac623.jpg_460x.jpg",
+                "caption": "\u00a9 Tom Lammerse, 2022."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f9d56d72301567832dc1794ebb17fe2ca03911ac623.jpg_1280x.jpg",
+                "caption": "\u00a9 Tom Lammerse, 2022."
+            },
+            "about": "OSCAM, het Open Space Contemporary Art Museum, is het museum voor kunst, mode, design, vakmanschap en ontwikkeling in Amsterdam Zuidoost. Het biedt ruimte voor jonge, bekende en onbekende kunstenaars en kunstinstellingen die een connectie hebben met de Bijlmer en slaat een brug tussen de kunstscene van Zuidoost, die van het centrum en ver daarbuiten. De plek voor jong, nieuw talent, midden in de Bijlmer!",
+            "notes": "Een pareltje in Zuidoost. Ben je niet in de buurt? Pak dan de Uber!",
+            "address": "Bijlmerplein 110-111, 1102 DB",
+            "coords": {
+                "lat": 52.3228194,
+                "lng": 4.975491599999941
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 7,
+            "name": "Oude Kerk",
+            "uri": "museum\/7\/oude-kerk",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_631755ec9403f6ae10c5cb71aea067707994012284578.jpeg",
+                "caption": "\u00a9 Daniel Sylla, 2021."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_631755ec9403f6ae10c5cb71aea067707994012284578.jpeg",
+                "caption": "\u00a9 Daniel Sylla, 2021."
+            },
+            "about": "De Oude Kerk is een plek voor hedendaagse kunst in het oudste gebouw van Amsterdam, gelegen middenin het historische stadscentrum. Door de eeuwen heen groeide de kerk uit van een kleine houten kapel tot omvangrijke hallenkerk.\u00a0Jaarlijks presenteert de Oude Kerk twee grote tentoonstellingen en een uitgebreid verdiepend publieksprogramma. Op uitnodiging van de Oude Kerk maken kunstenaars en musici nieuw werk dat alleen hier eenmalig te zien en te horen is. Zo ontstaan nieuwe perspectieven op de geschiedenis van het gebouw, de wereld om ons heen en de toekomst.",
+            "notes": "De Oude Kerk is... oud. Heel oud. Het oudste gebouw van Amsterdam!",
+            "address": "Oudekerksplein 23, 1012 GX",
+            "coords": {
+                "lat": 52.3741638,
+                "lng": 4.89792239999997
+            },
+            "capacity": "open",
+            "capacity_title": "Open"
+        },
+        {
+            "id": 141,
+            "name": "Outsider Art Galerie",
+            "uri": "museum\/141\/outsider-art-galerie",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6694f178b51c288ed207a666dd5da841971876a8ebb95.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6694f178b51c288ed207a666dd5da841971876a8ebb95.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "Outsider Art Galerie, net naast H\u2019ART, toont exposities met hedendaagse outsider kunst uit binnen- en buitenland en voorbeelden van impactvolle kunstinterventies binnen zorg en welzijn. Boven de galerie bevindt zich het atelier, waar een groep kunstenaars dagelijks werkt aan autonome kunstuitingen.",
+            "notes": "Outsider Art Galerie in H\u2019ART Museum toont en verkoopt werk van hedendaagse outsider kunstenaars.",
+            "address": "Nieuwe Herengracht 14, 1018 DR",
+            "coords": {
+                "lat": 52.3658436,
+                "lng": 4.9034143
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 137,
+            "name": "Pexpo",
+            "uri": "museum\/137\/pexpo",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f501d7e7aa0668937bde807862de2bc6386d393f758.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f501d7e7aa0668937bde807862de2bc6386d393f758.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "Pexpo is kunst van de straat. Deze creatieve ontmoetingsplek, in het hart van de van der Pekbuurt, brengt mensen samen met creativiteit als bindmiddel. Bezoek tentoonstellingen van befaamde namen en prille beginners, volg workshops of kom gewoon langs voor een kop koffie in het atelier.",
+            "notes": "Pexpo verbindt Oud Noord door middel van creativiteit.",
+            "address": "Van der Pekstraat 49, 1031 CN",
+            "coords": {
+                "lat": 52.388465,
+                "lng": 4.909110999999999
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 10,
+            "name": "Pianola Museum",
+            "uri": "museum\/10\/pianola-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d6fbaf680f99c2e64e2848bad45327ee007ff9a17d1a.jpg_460x.jpg",
+                "caption": "\u00a9 Hunkaar, 2018."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d6fbaf680f99c2e64e2848bad45327ee007ff9a17d1a.jpg_1280x.jpg",
+                "caption": "\u00a9 Hunkaar, 2018."
+            },
+            "about": "In het Pianola Museum staan piano's, vleugels en andere instrumenten die geen mensenhanden nodig hebben om muziek te maken. In dit kleine, knusse museum midden in de Jordaan vinden ook allerlei concerten plaats, waarbij vanzelfsprekend de piano en de automatische versie daarvan centraal staan. Een ideale plek voor liefhebbers van muziek en muziekautomaten.",
+            "notes": "Ontdek de vele duizende pianorollen in het Pianola Museum.",
+            "address": "Westerstraat 106, 1015 MN",
+            "coords": {
+                "lat": 52.378567,
+                "lng": 4.8836089999999786
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 25,
+            "name": "Portugese Synagoge",
+            "uri": "museum\/25\/portugese-synagoge",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f72ece569462fb328200638c5bcf0dbafea12d89b50.jpg_460x.jpg",
+                "caption": "\u00a9 Apoorv Siloiya, 2021."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/64f72ece569462fb328200638c5bcf0dbafea12d89b50.jpg_1280x.jpg",
+                "caption": "\u00a9 Apoorv Siloiya, 2021."
+            },
+            "about": "Deze prachtige synagoge vlakbij het Waterlooplein werd in de 17e eeuw gebouwd en is nog steeds in gebruik. Je bent er vast wel eens langs gefietst, maar ga vooral ook eens naar binnen. Voor de maandelijkse kaarslichtconcerten bijvoorbeeld, of de door UNESCO beschermde bibliotheek. Onder de Portugese Synagoge liggen nog de oorspronkelijke kelders, met schatkamers zoals ze eigenlijk alleen in sprookjes worden beschreven. Wil je meer religieus erfgoed? Ga dan ook eens naar het Joods Museum of de Oude Kerk!",
+            "notes": "Tijdens de Museumnacht wordt de Portugese Synagoge verlicht door 1001 kaarsen. Kom de magie van dichtbij bekijken!",
+            "address": "Mr. Visserplein 3, 1011 RD",
+            "coords": {
+                "lat": 52.367671,
+                "lng": 4.904878
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 26,
+            "name": "Rijksmuseum - doet niet meer mee aan Museumnacht Amsterdam 2024",
+            "uri": "museum\/26\/rijksmuseum-doet-niet-meer-mee-aan-museumnacht-amsterdam-2024",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_63175c1c097de1a6fcc24f99db860f156eeafaf2edbde.jpeg",
+                "caption": "\u00a9 Milan Gino, 2021."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_63175c1c097de1a6fcc24f99db860f156eeafaf2edbde.jpeg",
+                "caption": "\u00a9 Milan Gino, 2021."
+            },
+            "about": "Een historisch museum waar altijd iets nieuws te ontdekken is. Het Rijksmuseum kijkt met de blik van nu naar de kunst van toen. Dat het Rijksmuseum tot de beroemdste musea van de wereld behoort, komt vooral door de faam van de meesterwerken uit de collectie. Het Zelfportret van Van Gogh, Het Straatje van Vermeer, het huishouden van Jan Steen en Rembrandts Nachtwacht. Maar ook het werk van Breitner en het Aziatisch Paviljoen zorgen ervoor dat het Rijksmuseum tot de verbeelding blijft spreken van nieuwe generaties bezoekers.",
+            "notes": "Het neusje van de Nederlandse zalm vind je natuurlijk in het Rijks!",
+            "address": "Museumstraat 1, 1071 XX",
+            "coords": {
+                "lat": 52.360031,
+                "lng": 4.885261000000014
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 100,
+            "name": "Sexyland World",
+            "uri": "museum\/100\/sexyland-world",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/614311a3dad12beef86c0d0d780c3d11fb4eb86d0740f.jpg_460x.jpg",
+                "caption": "\u00a9 Sexyland"
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/614311a3dad12beef86c0d0d780c3d11fb4eb86d0740f.jpg_1280x.jpg",
+                "caption": "\u00a9 Sexyland"
+            },
+            "about": "SEXYLAND World is een poging om (sub)cultuur, kunst en andere uitingen van enthousiasme met elkaar te verbinden, dwars door alle lagen van de samenleving heen. Het gebouw aan \u2019t IJ is een labyrint van uiteenlopende culturele, creatieve en maatschappelijke initiatieven. Een kakofonie aan ruimtes en programma, met \u00e9\u00e9n toegangsdeur en een gedeelde visie. 400m2 georganiseerde chaos. Een huis waar je kunt dwalen en verdwalen - van een authentiek Chinees Sichuan restaurant naar een jongeren hangout met Marokkaanse thee en spelletjes, van een grenzeloos kunstkasteel naar het mooiste terras van Amsterdam met Caribische fusion-keuken, en door naar club SEXYLAND met elke dag een andere eigenaar.",
+            "notes": "Bij Sexyland World zijn geen twee avonden hetzelfde. Laat je verrassen!",
+            "address": "Noordwal 1, 2021 PX",
+            "coords": {
+                "lat": 52.3810909,
+                "lng": 4.9128479
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 140,
+            "name": "small museum",
+            "uri": "museum\/140\/small-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6694ef829b45cf33eef8a9f9af8a3baaef6a56fe4fdac.webp_460x.webp",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6694ef829b45cf33eef8a9f9af8a3baaef6a56fe4fdac.webp_1280x.webp",
+                "caption": ""
+            },
+            "about": "Het small museum is een heel klein museum, alleen 's nachts zichtbaar, gehuisvest in een van de mededelingenkastjes aan de voorgevel van Paradiso. Bijna onzichtbaar voor het publiek, te midden van het drukke dagelijkse leven van Amsterdam en de voorbijrazende forenzen op de Weteringschans, wacht het small museum stilletjes tot de zon ondergaat. Zodra de zon onder is, de stad rustiger begint te worden en het bruisende nachtleven tot leven komt, begint het museum haar licht te schijnen.",
+            "notes": "Stop tijdens je route even bij dit piepkleine museum, dat alleen tot leven komt zodra de avond valt.",
+            "address": "Weteringschans 6-8, 1017 SG",
+            "coords": {
+                "lat": 52.3621706,
+                "lng": 4.8838021
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 27,
+            "name": "Stadsarchief Amsterdam",
+            "uri": "museum\/27\/stadsarchief-amsterdam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_615f0884843578573db23f01becd995891a9f13604ec7.jpeg",
+                "caption": "\u00a9 Victor Wennekes, 2018."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_615f0884843578573db23f01becd995891a9f13604ec7.jpeg",
+                "caption": "\u00a9 Victor Wennekes, 2018."
+            },
+            "about": "Eindeloze rijen papieren in grijze archiefkasten? Niks ervan! Het Stadsarchief laat de geschiedenis van Amsterdam zien in prachtige tentoonstellingen. Ontdek bijna 750 jaar aan documenten, persoonsgegevens, beelden en verhalen in het prachtige gebouw aan de Vijzelstraat.\r\n\r\nGe\u00efnspireerd door de tentoonstelling 'Al die Amderdamse mensen - Foto\u2019s 1970-1990' draait Museumnacht in het Stadsarchief dit jaar om protest. In de tentoonstelling is onder andere te zien hoe Amsterdammers in de jaren zeventig en tachtig opkwamen voor hun rechten. Denk hierbij aan het recht te werken, te wonen, in vrijheid te leven en nog veel meer. Er wordt een link gelegd met protesteren toen en nu, in de vorm van muziek, workshops, gesprekken en kunst. Door het hele gebouw is er iets te beleven.",
+            "notes": "Duik in de archieven van Stadsarchief en leer over de beweging van onze stad.",
+            "address": "Vijzelstraat 32, 1017 HL",
+            "coords": {
+                "lat": 52.364709,
+                "lng": 4.892216299999973
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 28,
+            "name": "Stedelijk Museum Amsterdam",
+            "uri": "museum\/28\/stedelijk-museum-amsterdam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66a7496fe80b25888abe364eed25c3233361f5f7d08d1.jpg_460x.jpg",
+                "caption": "Museumnacht 2023. Foto: Jasper Mol"
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66a7496fe80b25888abe364eed25c3233361f5f7d08d1.jpg_1280x.jpg",
+                "caption": "Museumnacht 2023. Foto: Jasper Mol"
+            },
+            "about": "In het Stedelijk Museum Amsterdam vind je wereldberoemde werken en nieuwe ontdekkingen binnen moderne en hedendaagse kunst en vormgeving. Ervaar de vaste collectie met meer dan 500 werken van 1870 tot nu en laat je verrassen door verschillende tijdelijke tentoonstellingen.",
+            "notes": "Het Stedelijk Museum is dit jaar stoffiger dan ooit! Leer tuften of borduren, bekijk 45 textielwerken en weefkunst.",
+            "address": "Museumplein 10, 1071 DJ",
+            "coords": {
+                "lat": 52.357744,
+                "lng": 4.879977999999937
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 70,
+            "name": "Stichting NDSM-werf",
+            "uri": "museum\/70\/stichting-ndsm-werf",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6143185cb2017e2e97da6f73b63c817f29383dbc5ccec.jpg_460x.jpg",
+                "caption": "\u00a9 Jaap Beyleveld, 2019."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6143185cb2017e2e97da6f73b63c817f29383dbc5ccec.jpg_1280x.jpg",
+                "caption": "\u00a9 Jaap Beyleveld, 2019."
+            },
+            "about": "Waar vroeger volop werd gebouwd aan gigantische schepen, kun je op deze werf nu voor heel andere dingen terecht. De NDSM is nog een ruig stukje Amsterdam, waar steeds meer te doen en te zien is. Met zijn gigantische loodsen, broedplaatsen en street-art is het de ideale plek voor een nieuwe generatie creatievelingen, kunstenaars en ondernemers. Stichting NDSM-werf programmeert en beheert culturele evenementen op het enorme buitengebied van NDSM, zo ook tijdens de Museumnacht, en cre\u00ebert als museum zonder dak kunst in de publieke ruimte.",
+            "notes": "Stap in een visuele wereld met imposante installaties, graffiti en freerunners.",
+            "address": "NDSM-Plein 85, 1033 RG",
+            "coords": {
+                "lat": 52.4008494,
+                "lng": 4.893416399999978
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 150,
+            "name": "Teekenschool Rijksmuseum",
+            "uri": "museum\/150\/teekenschool-rijksmuseum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_66f5854bc71595e9c12f1f7b0100ea545cd4258974e51.jpeg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_66f5854bc71595e9c12f1f7b0100ea545cd4258974e51.jpeg",
+                "caption": ""
+            },
+            "about": "De Teekenschool is het educatieve centrum van het Rijksmuseum, direct naast het hoofdgebouw. Jong en oud ontwikkelen hier hun creatieve talent door verschillende activiteiten. De inspiratie wordt altijd opgedaan tijdens een rondleiding in het museum. In drie verschillende ateliers worden workshops en lessen gegeven, altijd met de collectie van het museum als uitgangspunt.",
+            "notes": "In de Teekenschool van het Rijks ontwikkeld jong en oud hun talent.",
+            "address": "Hobbemastraat 25, 1071 XZ",
+            "coords": {
+                "lat": 52.3590421,
+                "lng": 4.8861397
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 108,
+            "name": "The Black Archives",
+            "uri": "museum\/108\/the-black-archives",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f1309bdbbab6548f8460c5fd5b03895b17da37d8607.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66f1309bdbbab6548f8460c5fd5b03895b17da37d8607.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "The Black Archives is een historisch archief en cultureel centrum waar mensen terecht kunnen voor inspirerende gesprekken, inhoudelijke activiteiten en boeken vanuit zwarte en andere perspectieven die elders vaak onderbelicht blijven. The Black Archives wordt gedragen door de organisatie New Urban Collective.\r\n\r\nThe Black Archives bestaat uit verschillende boekencollecties, archieven en artefacten die het nalatenschap zijn van zwarte schrijvers en wetenschappers. De meer dan 10.000 aanwezige boeken in de collecties gaan over racisme, slavernij en (de)kolonisatie, gender en feminisme, sociale wetenschappen, Suriname, de voormalig Nederlandse Antillen, Zuid-Amerika, Afrika en meer.",
+            "notes": "Maak de geschiedenis levend bij The Black Archives.",
+            "address": "Bijlmerplein 140, 1102 DB",
+            "coords": {
+                "lat": 52.3143527,
+                "lng": 4.953854
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 146,
+            "name": "The Other Side",
+            "uri": "museum\/146\/the-other-side",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/uploads\/66f2c29898ef0ad13a17da768136eceff9b900d72dac1.avif",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/uploads\/66f2c29898ef0ad13a17da768136eceff9b900d72dac1.avif",
+                "caption": ""
+            },
+            "about": "Bij The Other Side in de Houthavens staat harmonie voorop. Naar elkaar, met de plek, met de muziek en met kunst. Als de eerste nachtclub ter wereld maken ze gebruik van een spatial audio-installatie, met 36 speakers aan het plafond, waardoor je compleet opgenomen wordt in de klanken en het ritme. Een locatie die je als liefhebber van unieke ervaringen sowieso een keer moet hebben bezocht!\r\n \r\nTijdens Museumnacht 2024 lanceert TOS in samenwerking met SYN Collective & Stichting De Verteller een interdisciplinaire kunstexpositie waarin het nachtleven centraal staat. Verwacht performance, beeldende kunst, spatial spoken word en muziek. De organisatoren willen je zo de kracht en creatieve diversiteit van het Amsterdamse nachtleven laten ervaren.",
+            "notes": "Vier het Amsterdamse nachtleven met kunst in verschillende vormen.",
+            "address": "Rigakade 10, 1013 BC",
+            "coords": {
+                "lat": 52.395314,
+                "lng": 4.874815
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 34,
+            "name": "Van Eesteren Museum",
+            "uri": "museum\/34\/van-eesteren-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5e26da01a7e2b617e9b14b6a757f294600491ffadfbf7.jpg_460x.jpg",
+                "caption": "\u00a9 Nathan van Ewijk, 2019."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5e26da01a7e2b617e9b14b6a757f294600491ffadfbf7.jpg_1280x.jpg",
+                "caption": "\u00a9 Nathan van Ewijk, 2019."
+            },
+            "about": "Ooit van Cornelis van Eesteren gehoord? Samen met zijn team is deze stedenbouwkundige verantwoordelijk voor de ruime en groene opzet van Nieuw-West, Buitenveldert en Amsterdam-Noord. Het Van Eesteren Museum duikt in de architectuur en stedenbouw van de wederopbouwperiode in de jaren '50 en biedt daarmee inspiratie voor hedendaagse ontwerpvraagstukken. Het museum staat dit jaar helemaal in het teken van vrouwen in de architectuur, design en stedenbouw waarmee het Van Eesteren Museum het dominante mannelijke narratief van de ontwerpgeschiedenis wil corrigeren. Er is een binnenmuseum, een buitenmuseum en een jaren '50 museumwoning. Ga mee op \u00e9\u00e9n van de stadswandelingen, bekijk designklassiekers of ga in debat over stedelijke ontwikkeling.",
+            "notes": "Waan je in Egypte tussen de piramides, jazz en film.",
+            "address": "Noordzijde 31, 1064 GV",
+            "coords": {
+                "lat": 52.3728614,
+                "lng": 4.826259700000037
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 32,
+            "name": "Van Gogh Museum",
+            "uri": "museum\/32\/van-gogh-museum",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d6fcfcb9ce15d97b75e5a4af2c8a6a549b12c719ce56.jpg_460x.jpg",
+                "caption": "\u00a9 Mark Richter, 2018."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/5d6fcfcb9ce15d97b75e5a4af2c8a6a549b12c719ce56.jpg_1280x.jpg",
+                "caption": "\u00a9 Mark Richter, 2018."
+            },
+            "about": "In het Van Gogh Museum zie je niet alleen de meesterlijke werken van Vincent van Gogh, je ontdekt er veel meer. Je ziet er bijvoorbeeld ook tentoonstellingen van tijdsgenoten of je ontdekt hoe de thema\u2019s in het leven van Van Gogh nu nog steeds relevant zijn. Kom ontdekken, experimenteren, luisteren en ervaren aan de hand van kust, performance, talks en de expo van jonge makers.",
+            "notes": "Leer alles over Vincent's werk van toen \u00e9n zijn invloed op het heden!",
+            "address": "Museumplein 6, 1071 DJ",
+            "coords": {
+                "lat": 52.35786179999999,
+                "lng": 4.881409699999949
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 33,
+            "name": "Verzetsmuseum Amsterdam",
+            "uri": "museum\/33\/verzetsmuseum-amsterdam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/460x_64f8446327936675be4e42cbd51d846415cf5304166da.JPG",
+                "caption": "\u00a9 Almicheal Fraay, 2021."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/1280x_64f8446327936675be4e42cbd51d846415cf5304166da.JPG",
+                "caption": "\u00a9 Almicheal Fraay, 2021."
+            },
+            "about": "Een in gevangenschap gemaakt kerstboompje, aangrijpende afscheidsbrieven van ter dood veroordeelde verzetsmensen, in Japanse kampen gemaakt speelgoed, uitbundige feestrokken \u2013 de collectie van het Verzetsmuseum Amsterdam is even divers als indrukwekkend. Het museum brengt de geschiedenis van de Tweede Wereldoorlog in Nederland en de voormalige koloni\u00ebn dichtbij in meer dan 100 persoonlijke verhalen. Verhalen van gewone mensen die voor moeilijke keuzes stonden in extreme omstandigheden.\r\n\r\nDit jaar staat Museumnacht in het Verzetsmuseum Amsterdam in het teken van Postkoloniale Identiteit. Je wordt uitgenodigd om stil te staan bij de invloed van het koloniale verleden op onze huidige samenleving en toekomst, en om de hedendaagse postkoloniale cultuur te verkennen en begrijpen. Het thema sluit aan bij de nieuwe vaste tentoonstelling van het museum, die op 3 oktober 2024 is geopend. Deze tentoonstelling gaat over de voormalige Nederlandse koloni\u00ebn tijdens en na de Tweede Wereldoorlog: Indonesi\u00eb \u2013 toen Nederlands-Indi\u00eb genoemd \u2013 Suriname en zes Caribische eilanden. De Tweede Wereldoorlog bracht enorme veranderingen teweeg en was een grote stimulans voor het verzet tegen Nederland als koloniale onderdrukker.\r\n\r\nGeniet van een avond vol interactieve workshops, live muziek door Carina Fernandes en haar band Carina & The Jetsetters en proef hapjes afkomstig uit Indonesi\u00eb, Suriname en de Caribische eilanden. Verken de nieuwe afdeling over de voormalige koloni\u00ebn, leer over persoonlijke verhalen van verzet en reflecteer op hoe postkoloniale invloeden onze identiteit blijven vormgeven.",
+            "notes": "Wat is jouw postkoloniale identiteit?",
+            "address": "Plantage Kerklaan 61, 1018CX",
+            "coords": {
+                "lat": 52.36785,
+                "lng": 4.912931000000071
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 139,
+            "name": "W139",
+            "uri": "museum\/139\/w139",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6694eee8395242499643ffce70ca63fd80790c879d382.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6694eee8395242499643ffce70ca63fd80790c879d382.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "Op de Warmoesstraat vind je W139; een presentatie- en productieruimte die al 44 jaar een weg baant voor experiment en nieuwe manieren van autonomie, zelf-organisatie en collectiviteit in de kunsten.\r\n\r\nTijdens Museumnacht zoomt W139 in op de opmerkelijke transformatie van de Turkse horrorfilm, aan de hand van een gesprek en een serie screenings. Kunstenaar Elif Satanaya \u00d6zbay is zowel in haar artistieke praktijk als via een persoonlijke obsessie zeer bevlogen met het horrorgenre. Ze schuift aan bij EMIRHAKIN in een gesprek dat aansluit bij de thema's van de tentoonstelling 'Remarkable Meetings with Disgusting Men' en daarop voortbouwt.",
+            "notes": "Ontdek hoe Turkse horrorfilms Hollywood links lieten liggen en hun eigen stijl gingen ontwikkelen.",
+            "address": "Warmoesstraat 139, 1012 JB",
+            "coords": {
+                "lat": 52.3737036,
+                "lng": 4.8959625
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 44,
+            "name": "Waag Futurelab",
+            "uri": "museum\/44\/waag-futurelab",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6540ad5decccfc791833bfe1b4af369b2dd5b7982099b.jpg_460x.jpg",
+                "caption": ""
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/6540ad5decccfc791833bfe1b4af369b2dd5b7982099b.jpg_1280x.jpg",
+                "caption": ""
+            },
+            "about": "Waag Futurelab opereert al 30 jaar op het snijvlak van kunst, wetenschap en technologie. Met ontwerpend onderzoek verkent Waag de sociale en culturele impact van nieuwe technologie\u00ebn en hun toepassing voor sociale innovatie. Elke maand organiseert Waag wisselende workshops en performances waarin kunstenaars, makers en publiek gezamenlijk technologie bevragen en ontleden. Elke donderdag geeft Waag vrij toegang tot haar FabLab met 3D-printers, lasersnijders en andere machines die normaal gesproken alleen beschikbaar zijn voor grote fabrieken. Zo stelt Waag iedereen in staat om zelf te maken - en om mee te ontwerpen aan een open, eerlijke en inclusieve toekomst.",
+            "notes": "Hoe ga jij om met de technologie van de toekomst?",
+            "address": "Nieuwmarkt 4, 1012 CR",
+            "coords": {
+                "lat": 52.372665,
+                "lng": 4.900426
+            },
+            "capacity": null,
+            "capacity_title": null
+        },
+        {
+            "id": 30,
+            "name": "Wereldmuseum Amsterdam",
+            "uri": "museum\/30\/wereldmuseum-amsterdam",
+            "image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66e00a36b8cf5e73843e7bd69064e80874141a0f3d487.jpg_460x.jpg",
+                "caption": "\u00a9 Odessa DC, 2023."
+            },
+            "large_image": {
+                "url": "https:\/\/s3.eu-west-1.amazonaws.com\/museumnacht.amsterdam\/thumbs\/66e00a36b8cf5e73843e7bd69064e80874141a0f3d487.jpg_1280x.jpg",
+                "caption": "\u00a9 Odessa DC, 2023."
+            },
+            "about": "In het Wereldmuseum geloven we dat de wereld geen centrum heeft, maar \u00e9\u00e9n groot netwerk is waarin alles invloed heeft op elkaar. We onderzoeken de wereld om ons heen en proberen die beter te begrijpen via onze collectie en met onze tentoonstellingen. Wat is onze connectie met de wereld om ons heen? Hoe staan we in relatie tot elkaar? In een van de mooiste gebouwen van Amsterdam word je aangemoedigd om na te denken over wat het betekent om mens te zijn.",
+            "notes": "Ontdek alles over de sari als fashion statement.",
+            "address": "Linnaeusstraat 2, 1092 CK",
+            "coords": {
+                "lat": 52.3626564,
+                "lng": 4.922299000000066
+            },
+            "capacity": null,
+            "capacity_title": null
+        }
+    ]
