@@ -170,10 +170,6 @@ export default function EnhancedMuseumRouteResponsive({ initialMuseums }: { init
     }
 
     const validMuseums = initialMuseums.filter(museum => museum.coords && museum.coords.lat && museum.coords.lng)
-    const excludedNames = initialMuseums
-      .filter(museum => !museum.coords || !museum.coords.lat || !museum.coords.lng)
-      .map(museum => museum.name)
-    setExcludedMuseums(excludedNames)
 
     const museumsWithDistances = validMuseums
       .map(museum => ({
