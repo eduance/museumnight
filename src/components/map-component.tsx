@@ -146,7 +146,6 @@ export default function MapComponent({ museums, selectedMuseums, isAnimating, op
         if (currentIndex < pathCoords.length - 1) {
           const start = pathCoords[currentIndex] as [number, number]
           const end = pathCoords[currentIndex + 1] as [number, number]
-          const duration = calculateDistance(start[0], start[1], end[0], end[1]) * 200 // 200ms per km, faster animation
 
           const frames = 60
           const latStep = (end[0] - start[0]) / frames

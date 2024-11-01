@@ -153,7 +153,6 @@ export default function EnhancedMuseumRouteResponsive({ initialMuseums }: { init
   const [isCalculating, setIsCalculating] = useState(false)
   const [googleMapsLink, setGoogleMapsLink] = useState("")
   const [timeEstimate, setTimeEstimate] = useState("")
-  const [excludedMuseums, setExcludedMuseums] = useState<string[]>([])
 
   useEffect(() => {
     const damSquare: Museum = {
